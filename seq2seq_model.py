@@ -118,6 +118,7 @@ def readLangs(reverse=False):
     # else:
     #     #lines = open('data/OpenSubtitles/processed_OpenSubtitles.txt', encoding='utf-8').read().strip().split('\n')
     lines = open('data/answer_databse.txt', encoding='utf-8').read().strip().split('\n')
+
     # Split every line into pairs and normalize
     pairs = [[normalizeString(s) for s in l.split('\\')] for l in lines]
 
@@ -139,19 +140,26 @@ def readLangs(reverse=False):
 # the form "I am" or "He is" etc. (accounting for apostrophes replaced
 # earlier).
 #
-MAX_LENGTH = 50
+MAX_LENGTH = 10
 def filterPair(p):
-    if p[0].strip() or p[1].strip():
-       return False
+    # if not p:
+    #     return False
+    # else:
+    #     return  len(p[0].split(' ')) < MAX_LENGTH and len(p[1].split(' ')) < MAX_LENGTH
+    lst = [x for x in p if len(x.split(' ')) < MAX_LENGTH]
+    if len(lst) == 2:
+        return True
     else:
-        return  len(p[0].split(' ')) < MAX_LENGTH and \
-                len(p[1].split(' ')) < MAX_LENGTH
+        return False
+
 
 def filterPairs(pairs):
     #tmp =[pair for pair in pairs if filterPair(pair)]
     #lst = filter(lambda pair: filterPair(pair), pairs)
-    lst = [pair for pair in pairs[0:len(pairs)] if filterPair(pair)]
-    return list(lst)
+    lst = [None]* len(pairs)
+    lst = [pair for pair in pairs if filterPair(pair)]
+    return lst
+
 
 
 ######################################################################
@@ -165,6 +173,9 @@ def filterPairs(pairs):
 def prepareData(reverse=False):
     input_lang, output_lang, pairs = readLangs(reverse)
     print("Read %s sentence pairs" % len(pairs))
+    for x in range(0, len(pairs)):
+        if len(pairs[x]) == 0:
+            print (x)
     pairs = filterPairs(pairs)
     print("Trimmed to %s sentence pairs" % len(pairs))
     print("Counting words...")
@@ -174,6 +185,7 @@ def prepareData(reverse=False):
     print("Counted words:")
     print(input_lang.name, input_lang.n_words)
     print(output_lang.name, output_lang.n_words)
+
     return input_lang, output_lang, pairs
 
 
