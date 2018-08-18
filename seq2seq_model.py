@@ -571,8 +571,8 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, plot_every=100, lear
             print_loss_total = 0
             print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, print_loss_avg))
-            torch.save(encoder, 'model/1-layer/encoder.pkl')
-            torch.save(decoder, 'model/1-layer/decoder.pkl')
+            torch.save(encoder, 'model/encoder.pkl')
+            torch.save(decoder, 'model/decoder.pkl')
 
         if iter % plot_every == 0:
             plot_loss_avg = plot_loss_total / plot_every
@@ -695,8 +695,8 @@ def evaluateRandomly(encoder, decoder, n=10):
 def run_train(iterations):
     hidden_size = 512 # original 256 for single layer
     try:
-        encoder1 = torch.load('model/1-layer/encoder.pkl')
-        attn_decoder1 = torch.load('model/1-layer/decoder.pkl')
+        encoder1 = torch.load('model/encoder.pkl')
+        attn_decoder1 = torch.load('model/decoder.pkl')
     except:
         encoder1 = EncoderRNN(input_lang.n_words, hidden_size).to(device)
         attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, dropout_p=0.1).to(device)
