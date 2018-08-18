@@ -793,25 +793,34 @@ if __name__ == '__main__':
     #         iters = arg
     # to train a chatbot
 
-    perplexity, _, _ = run_train(iterations=75000) #75000
+    perplexity, _, _ = run_train(iterations=150000) #75000
     print('Perplexity: ', perplexity)
 
-    # elif usage == 'evaluate':
-    #     # calculate BLEU and perplexity
-    #     perplexity, encoder1, attn_decoder1 = run_train(iterations=iters) # 500 samples perplexity: 4.58290114593
-    #     print('Perplexity of the whole training process: ', perplexity)
-    #     BLEU = calculate_BLEU(encoder1, attn_decoder1, 5000) # 5000 samples BLEU score: 0.3024%
-    #     print('BLEU score of the whole model: {:.4%}'.format(BLEU))
+    
 
     # elif usage == 'test':
     #     # to test a chatbot
-    #     encoder1 = torch.load('model/1-layer/encoder.pkl')
-    #     attn_decoder1 = torch.load('model/1-layer/decoder.pkl')
-    #     input_sentence = ''
+    print("---------------test bot---------------")
+    
+    encoder1 = torch.load('model/1-layer/encoder.pkl')
+    attn_decoder1 = torch.load('model/1-layer/decoder.pkl')
+    input_sentences = ["привет","как дела", "кто ты?", "что ты делаешь?", "Зачем"]
+    for sen in input_sentences:
+        sen = normalizeString(sen)
+        output = evaluateAndReturnRespone(sen,encoder1,attn_decoder1)
+        print("Q: ", sen)
+        print("A: ",output)
     #     while input_sentence != 'exit':
     #         input_sentence = normalizeString(input('User input: '))
     #         output_sentence = evaluateAndReturnResponse(input_sentence, encoder1, attn_decoder1)
     #         print('Agent: ', output_sentence)
+    print("-------------------evaluation------------------")
+    # elif usage == 'evaluate':
+    #     # calculate BLEU and perplexity
+    perplexity, encoder1, attn_decoder1 = run_train(iterations=500) # 500 samples perplexity: 4.58290114593
+    print('Perplexity of the whole training process: ', perplexity)
+    BLEU = calculate_BLEU(encoder1, attn_decoder1, 5000) # 5000 samples BLEU score: 0.3024%
+    print('BLEU score of the whole model: {:.4%}'.format(BLEU))
 
 
 ## for 1 layer encoder and decoder with OpenSubtitle Dataset (hidden_size = 256)
