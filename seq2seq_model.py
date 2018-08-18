@@ -807,7 +807,7 @@ if __name__ == '__main__':
     input_sentences = ["привет","как дела", "кто ты?", "что ты делаешь?", "Зачем"]
     for sen in input_sentences:
         sen = normalizeString(sen)
-        output = evaluateAndReturnRespone(sen,encoder1,attn_decoder1)
+        output = evaluateAndReturnResponse(sen,encoder1,attn_decoder1)
         print("Q: ", sen)
         print("A: ",output)
     #     while input_sentence != 'exit':
