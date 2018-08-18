@@ -802,8 +802,8 @@ if __name__ == '__main__':
     #     # to test a chatbot
     print("---------------test bot---------------")
     
-    encoder1 = torch.load('model/1-layer/encoder.pkl')
-    attn_decoder1 = torch.load('model/1-layer/decoder.pkl')
+    encoder1 = torch.load('model/encoder.pkl')
+    attn_decoder1 = torch.load('model/decoder.pkl')
     input_sentences = ["привет","как дела", "кто ты?", "что ты делаешь?", "Зачем"]
     for sen in input_sentences:
         sen = normalizeString(sen)
