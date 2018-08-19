@@ -32,3 +32,25 @@ Bố cháu làm nghề gì?\Bố cháu là kỹ sư.
 Bố cháu làm nghề gì?\Bố cháu là công nhân.
 Bố cháu làm nghề gì?\Cháu không biết.
 exit
+Hưng, anh muốn uống cà phê hay trà?
+Hưng, anh muốn uống cà phê hay trà?\Em hãy pha trà cho anh nhưng pha trà đặc nhé.
+Em sẽ uống cà phê. Hãy đưa giùm cho em lọ đựng đường\Đây.
+Em bỏ đường vào trà cho anh nhé?\Ừ, em hãy bỏ đường vào cho anh.
+Mấy viên?\Ba viên nhé.
+Bác hãy ghi thanh toán hộ tôi: của cải, nước dùng, thịt băm, khoai tây, hai cốc trà. Tôi phải trả bao nhiêu tiền?\Của cô 150 nghìn.
+Tiền của bác đây.\Vâng cảm ơn.
+Xin hỏi, chỗ này còn trống hay có người ngồi?\Còn trống.
+Lan, ngồi xuống đây, còn anh đi mua đồ ăn. Em có ăn khoai tây chiên không?\Em có.
+Món súp em có thích không?\Rất ngon. Nói chung là em vẫn thích món súp đó. Thế còn nước dùng của anh thì sao?
+Thế còn nước dùng của anh thì sao?\Cũng ngon, chỉ có hơi nhạt một chút.
+Sao em không ăn hết món cá đi? Em đã rất đói mà?\Vâng, nhưng bây giờ thì em đã no rồi, bữa ăn trưa quá nhiều.
+Hôm nay chúng ta sẽ ăn cơm tối ở đâu?\Chúng ta sẽ ăn cơm tối ở nhà, được không anh?
+Chúng ta sẽ ăn cơm tối ở nhà, được không anh?\Anh đồng ý.
+Xin chào chị, Lan!\Chào chị
+Chị có biết là chị Hoa vừa sinh con trai không?\Chị nói gì thế. Chà tốt quá.
+Thế cháu giống ai?\Cháu giống mẹ hơn.
+Sức khỏe của chị ấy sao rồi?\Rất tốt, chị ấy không sao cả.
+Thế còn bố mẹ của chị ấy thì sao?\Cũng như mọi bậc ông bà khác, hai cụ rất yêu quý cháu của mình.
+Rất vui vì chị đã thông báo cho tôi. Tôi nhất định sẽ gọi cho chị ấy để chúc mừng. Cảm ơn chị!\Không có gì.
+Chào chị.\Vâng chào chị, hẹn gặp lại nhé.
+exit
