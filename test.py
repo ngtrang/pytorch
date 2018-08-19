@@ -1,6 +1,8 @@
 #Creat dataset
 dia =""
-with open("data/anwser_databse.txt", "a",encoding="utf-8") as text_file:
+#with open("data/anwser_databse.txt", "a",encoding="utf-8") as text_file:
+#Add vietnamse text
+with open("data/vi_database.txt", "a",encoding="utf-8") as text_file:
   while dia != "exit":
     dia = input("input text: ")
     text_file.write(dia+"\n")

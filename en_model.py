@@ -20,7 +20,7 @@ print(device)
 
 SOS_token = 0
 EOS_token = 1
-MAX_LENGTH = 50
+MAX_LENGTH = 150
 
 class Lang:
     def __init__(self, name):

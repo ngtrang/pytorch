@@ -48,7 +48,7 @@ def normalizeString(s):
     s = s.lower().strip()
     s = re.sub(r"([.!?])", r" \1", s)
     s = re.sub(r"([-])", r"", s)
-    s = re.sub(r"[^ёЁа-яА-Яa-zA-Zà-üÀ-Ü0-9.!?]+", r" ", s) #    s = re.sub(r"[^ёЁа-яА-Яa-zA-Zà-üÀ-Ü0-9.!?]+", r" ", s)
+    #s = re.sub(r"[^ёЁа-яА-Яa-zA-Zà-üÀ-Ü0-9.!?]+", r" ", s) #    s = re.sub(r"[^ёЁа-яА-Яa-zA-Zà-üÀ-Ü0-9.!?]+", r" ", s)
 
     return s
 
@@ -69,7 +69,7 @@ def readLangs(reverse=False):
     #     lines = open('data/Twitter/processed_Twitter_reverse.txt', encoding='utf-8').read().strip().split('\n')
     # else:
     #     #lines = open('data/OpenSubtitles/processed_OpenSubtitles.txt', encoding='utf-8').read().strip().split('\n')
-    lines = open('data/vietnamese_database.txt', encoding='utf-8').read().strip().split('\n')
+    lines = open('data/vi_database.txt', encoding='utf-8').read().strip().split('\n')
 
     # Split every line into pairs and normalize
     pairs = [[normalizeString(s) for s in l.split('\\')] for l in lines]
@@ -208,7 +208,7 @@ class DecoderRNN(nn.Module):
 
 
 class AttnDecoderRNN(nn.Module):
-    def __init__(self,hidden_size, output_size,max_length , dropout_p=0.1):
+    def __init__(self,hidden_size, output_size,max_length = MAX_LENGTH , dropout_p=0.1):
         super(AttnDecoderRNN, self).__init__()
         self.hidden_size = hidden_size
         self.output_size = output_size
@@ -407,8 +407,8 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, plot_every=100, lear
             print_loss_total = 0
             print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, print_loss_avg))
-            torch.save(encoder, 'model/vi_encoder.pkl')
-            torch.save(decoder, 'model/vi_decoder.pkl')
+            torch.save(encoder, 'model/VI-model/encoder.pkl')
+            torch.save(decoder, 'model/VI-model/decoder.pkl')
 
         if iter % plot_every == 0:
             plot_loss_avg = plot_loss_total / plot_every
@@ -531,11 +531,11 @@ def evaluateRandomly(encoder, decoder, n=10):
 def run_train(iterations):
     hidden_size = 256 # original 256 for single layer
     try:
-        encoder1 = torch.load('model/vi_encoder.pkl')
-        attn_decoder1 = torch.load('model/vi_decoder.pkl')
+        encoder1 = torch.load('model/VI-model/encoder.pkl')
+        attn_decoder1 = torch.load('model/VI-model/decoder.pkl')
     except:
         encoder1 = EncoderRNN(input_lang.n_words, hidden_size).to(device)
-        attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words,max_length=30, dropout_p=0.1).to(device)
+        attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, dropout_p=0.1).to(device)
 
     perplexity = trainIters(encoder1, attn_decoder1, iterations, print_every=500, learning_rate=0.000001) #5000
     evaluateRandomly(encoder1, attn_decoder1)
@@ -584,6 +584,7 @@ def showAttention(input_sentence, output_words, attentions):
     ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
 
     plt.show()
+    fig.savefig("viatt.png")
 
 
 def evaluateAndShowAttention(input_sentence, encoder1, attn_decoder1):
@@ -629,8 +630,8 @@ if __name__ == '__main__':
     #         iters = arg
     # to train a chatbot
 
-    perplexity, _, _ = run_train(iterations=15000) #75000
-    print('Perplexity: ', perplexity)
+    # perplexity, _, _ = run_train(iterations=15000) #75000
+    # print('Perplexity: ', perplexity)
 
     # elif usage == 'evaluate':
     #     # calculate BLEU and perplexity
@@ -641,13 +642,14 @@ if __name__ == '__main__':
 
     # elif usage == 'test':
         # to test a chatbot
-    encoder1 = torch.load('model/vi_encoder.pkl')
-    attn_decoder1 = torch.load('model/vi_decoder.pkl')
-    input_sentence = ''
-    while input_sentence != 'exit':
-        input_sentence = normalizeString(input('User input: '))
-        output_sentence = evaluateAndReturnResponse(input_sentence, encoder1, attn_decoder1)
-        print('Agent: ', output_sentence)
+    encoder1 = torch.load('model/VI-model/encoder.pkl')
+    attn_decoder1 = torch.load('model/VI-model/decoder.pkl')
+    evaluateAndShowAttention("cháu học lớp mấy rồi?",encoder1,attn_decoder1)
+    # input_sentence = ''
+    # while input_sentence != 'exit':
+    #     input_sentence = normalizeString(input('User input: '))
+    #     output_sentence = evaluateAndReturnResponse(input_sentence, encoder1, attn_decoder1)
+    #     print('Agent: ', output_sentence)
 
 
 ## for 1 layer encoder and decoder with OpenSubtitle Dataset (hidden_size = 256)
