@@ -11,12 +11,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="vi_bot.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vi_bot.py">
+      <file leaf-file-name="en_model.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/en_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-575">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="-706">
+              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +74,7 @@
         <option value="$PROJECT_DIR$/prepare_Twitter.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/seq2seq_model.py" />
+        <option value="$PROJECT_DIR$/en_model.py" />
       </list>
     </option>
   </component>
@@ -103,6 +106,11 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="pytorch" type="cbb8eebc:String" user="pytorch" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="pytorch" type="cbb8eebc:String" user="pytorch" />
+              <item name="model" type="cbb8eebc:String" user="model" />
             </path>
           </expand>
           <select />
@@ -143,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.vi_bot">
+  <component name="RunManager" selected="Python.en_model">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +170,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="prepare_OpenSubtitles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="en_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -174,7 +182,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Seq2seq-pytorch" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_OpenSubtitles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/en_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,18 +349,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.seq2seq_model (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.prepare_OpenSubtitles" />
-      <item index="2" class="java.lang.String" itemvalue="Python.prepare_Twitter" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.vi_bot" />
+      <item index="1" class="java.lang.String" itemvalue="Python.prepare_Twitter" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.vi_bot" />
+      <item index="4" class="java.lang.String" itemvalue="Python.en_model" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.vi_bot" />
-        <item index="1" class="java.lang.String" itemvalue="Python.seq2seq_model (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.prepare_Twitter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.prepare_OpenSubtitles" />
+        <item index="0" class="java.lang.String" itemvalue="Python.en_model" />
+        <item index="1" class="java.lang.String" itemvalue="Python.vi_bot" />
+        <item index="2" class="java.lang.String" itemvalue="Python.seq2seq_model (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.prepare_Twitter" />
       </list>
     </recent_temporary>
   </component>
@@ -383,8 +391,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21909814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21909814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42535546" sideWeight="0.5039788" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42535546" sideWeight="0.4960212" order="2" side_tool="false" content_ui="tabs" />
@@ -590,14 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15350">
           <caret line="650" column="53" lean-forward="false" selection-start-line="650" selection-start-column="53" selection-end-line="650" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1802">
-          <caret line="676" column="45" lean-forward="false" selection-start-line="676" selection-start-column="45" selection-end-line="676" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -828,8 +829,18 @@
     <entry file="file://$PROJECT_DIR$/vi_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-575">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-706">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

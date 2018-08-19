@@ -761,6 +761,8 @@ if __name__ == '__main__':
         input_sentence = normalizeString(input('User input: '))
         output_sentence = evaluateAndReturnResponse(input_sentence, encoder1, attn_decoder1)
         print('Agent: ', output_sentence)
+
+    print("------------------Evaluation--------------------")
     # calculate BLEU and perplexity
     perplexity, encoder1, attn_decoder1 = run_train(iterations= 500) # 500 samples perplexity: 4.58290114593
     print('Perplexity of the whole training process: ', perplexity)
