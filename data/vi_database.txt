@@ -54,3 +54,22 @@ Thế còn bố mẹ của chị ấy thì sao?\Cũng như mọi bậc ông bà 
 Rất vui vì chị đã thông báo cho tôi. Tôi nhất định sẽ gọi cho chị ấy để chúc mừng. Cảm ơn chị!\Không có gì.
 Chào chị.\Vâng chào chị, hẹn gặp lại nhé.
 exit
+Mày đang làm gì đấy?\Tao đang ngồi chơi.
+Đi xem phim không?\Không, mưa lắm. Ở nhà thôi.
+Hôm nay mày có xem U23 đá không?\Có, mày có xem không? Trận hnay hay đấy.
+Bố mẹ mày có ở nhà không?\Bố mẹ tao đi vắng rồi, sang đây chơi.
+Ê, hello!\Hello, đang làm gì đấy?
+Ê mày?\Ơi.
+Mấy giờ mày qua nhà tao?\8h nhé.
+Ê, đi xem ca nhạc không?\Không, bố mẹ tao không cho đi đâu.
+Cho tao vay 50k với!\Ê, bố mày không có tiền nhé.
+Alo, cậu đang làm gì đấy?\Tớ đang không làm gì cả.
+Hôm nay mưa, có đi đá bóng không?\o ở nhà thôi
+Hôm nay em nấu món gì thế?\Em cũng chưa biết được.
+Hôm nay em nấu món gì thế?\Em nấu ăn bình thường thôi.
+Hôm nay em nấu món gì thế?\Cá kho với canh chua anh nhé.
+Em đã gửi hàng của anh chưa?\Chưa em chưa gửi anh ơi.
+Em ơi, hôm nay anh bận không qua nhà em được nhé.\Thế thì thôi vậy
+Anh ơi, em đang bận, tí nữa đi được không anh?\Ừm, thế thì tí nữa nhé.
+Ê mày, tao bận tí, lát nhắn tin nhé?\Ok
+exit

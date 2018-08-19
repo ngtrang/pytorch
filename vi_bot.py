@@ -632,15 +632,15 @@ if __name__ == '__main__':
     #         iters = arg
     # to train a chatbot
 
-    perplexity, _, _ = run_train(iterations=150000) #75000
+    perplexity, _, _ = run_train(iterations=100000) #75000
     print('Perplexity: ', perplexity)
 
     # elif usage == 'evaluate':
     #     # calculate BLEU and perplexity
-    perplexity, encoder1, attn_decoder1 = run_train(iterations= 500) # 500 samples perplexity: 4.58290114593
-    print('Perplexity of the whole training process: ', perplexity)
-    BLEU = calculate_BLEU(encoder1, attn_decoder1, 5000) # 5000 samples BLEU score: 0.3024%
-    print('BLEU score of the whole model: {:.4%}'.format(BLEU))
+    # perplexity, encoder1, attn_decoder1 = run_train(iterations= 500) # 500 samples perplexity: 4.58290114593
+    # print('Perplexity of the whole training process: ', perplexity)
+    # BLEU = calculate_BLEU(encoder1, attn_decoder1, 5000) # 5000 samples BLEU score: 0.3024%
+    # print('BLEU score of the whole model: {:.4%}'.format(BLEU))
 
     # elif usage == 'test':
         # to test a chatbot
