@@ -50,7 +50,6 @@ def normalizeString(s):
     s = s.lower().strip()
     s = re.sub(r"([.!?])", r" \1", s)
     s = re.sub(r"([-])", r"", s)
-    #s = re.sub(r"[^ёЁа-яА-Яa-zA-Zà-üÀ-Ü0-9.!?]+", r" ", s) #    s = re.sub(r"[^ёЁа-яА-Яa-zA-Zà-üÀ-Ü0-9.!?]+", r" ", s)
 
     return s
 
@@ -71,7 +70,7 @@ def readLangs(reverse=False):
     #     lines = open('data/Twitter/processed_Twitter_reverse.txt', encoding='utf-8').read().strip().split('\n')
     # else:
     #     #lines = open('data/OpenSubtitles/processed_OpenSubtitles.txt', encoding='utf-8').read().strip().split('\n')
-    lines = open('data/vi_database.txt', encoding='utf-8').read().strip().split('\n')
+    lines = open('100conver.txt', encoding='utf-8').read().strip().split('\n')
 
     # Split every line into pairs and normalize
     pairs = [[normalizeString(s) for s in l.split('\\')] for l in lines]
@@ -573,7 +572,7 @@ def showAttention(input_sentence, output_words, attentions):
     # Set up figure with colorbar
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    cax = ax.matshow(attentions.numpy(), cmap='bone')
+    cax = ax.matshow(attentions.numpy(), cmap='PuBu')
     fig.colorbar(cax)
 
     # Set up axes
@@ -632,28 +631,28 @@ if __name__ == '__main__':
     #         iters = arg
     # to train a chatbot
 
-    perplexity, _, _ = run_train(iterations=100000) #75000
-    print('Perplexity: ', perplexity)
+    # perplexity, _, _ = run_train(iterations=100000) #75000
+    # print('Perplexity: ', perplexity)
 
     # elif usage == 'evaluate':
     #     # calculate BLEU and perplexity
-    # perplexity, encoder1, attn_decoder1 = run_train(iterations= 500) # 500 samples perplexity: 4.58290114593
-    # print('Perplexity of the whole training process: ', perplexity)
-    # BLEU = calculate_BLEU(encoder1, attn_decoder1, 5000) # 5000 samples BLEU score: 0.3024%
-    # print('BLEU score of the whole model: {:.4%}'.format(BLEU))
+    perplexity, encoder1, attn_decoder1 = run_train(iterations= 500) # 500 samples perplexity: 4.58290114593
+    print('Perplexity of the whole training process: ', perplexity)
+    BLEU = calculate_BLEU(encoder1, attn_decoder1, 15) # 5000 samples BLEU score: 0.3024%
+    print('BLEU score of the whole model: {:.4%}'.format(BLEU))
 
     # elif usage == 'test':
         # to test a chatbot
     encoder1 = torch.load('model/VI-model/encoder.pkl')
     attn_decoder1 = torch.load('model/VI-model/decoder.pkl')
 
-    input_sentence = ''
-    while input_sentence != 'exit':
-        input_sentence = normalizeString(input('User input: '))
-        output_sentence = evaluateAndReturnResponse(input_sentence, encoder1, attn_decoder1)
-        print('Agent: ', output_sentence)
+    # input_sentence = ''
+    # while input_sentence != 'exit':
+    #     input_sentence = normalizeString(input('User input: '))
+    #     output_sentence = evaluateAndReturnResponse(input_sentence, encoder1, attn_decoder1)
+    #     print('Agent: ', output_sentence)
 
-    evaluateAndShowAttention("cháu học lớp mấy rồi?",encoder1,attn_decoder1)
+    #evaluateAndShowAttention("cháu học lớp mấy",encoder1,attn_decoder1)
 
 ## for 1 layer encoder and decoder with OpenSubtitle Dataset (hidden_size = 256)
 # 500 samples perplexity: 4.58290114593

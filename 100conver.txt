@@ -1,0 +1,728 @@
+Xin chào.\Xin chào.
+Bạn khỏe không?\Tôi khỏe. Bạn khỏe không?
+Khỏe. Bạn có nói tiếng Anh không?\Một chút. Bạn là người Mỹ hả?
+Vâng.\Bạn từ đâu tới?
+Tôi đến từ California.\Rất vui được gặp bạn.
+Tôi cũng rất vui được gặp bạn.\
+Xin lỗi, bạn là người Mỹ phải không?\Không.
+Bạn có nói tiếng Anh không?\Một chút, nhưng không giỏi lắm.
+Bạn ở đây bao lâu rồi?\Hai tháng.
+Bạn làm nghề gì?\Tôi là một học sinh. Còn bạn?
+Tôi cũng là một học sinh.\
+Xin lỗi, bạn tên là gì?\Tên tôi là Jessica. Còn tên của bạn?
+ You speak English very well.\ Thank you.
+ Do you know what time it is?\ Sure. It’s 5
+ What did you say?\ I said it’s 5
+ Thanks.\ You’re welcome.
+Chào Michael.\Chào Amy. Có chuyện gì vậy?
+Tôi đang tìm sân bay. Bạn có thể nói cho tôi biết làm cách nào đến đó được không?\Không, rất tiếc. Tôi không biết.
+Tôi nghĩ tôi có thể đi xe điện ngầm để tới sân bay. Bạn có biết đường xe điện ngầm ở đâu không?\Chắc rồi. Nó ở đằng kia.
+Ở đâu? Tôi không thấy nó.\Phía bên kia đường.
+Ồ, bây giờ tôi thấy rồi. Cám ơn.\Không có gì.
+Bạn biết có nhà vệ sinh nào quanh đây không?\Vâng. Có một cái ở đây. Nó ở trong cửa hàng.
+Cám ơn.\Tạm biệt.
+Tạm biệt.\
+Chào Sarah, bạn khỏe không?\Tôi khỏe, bạn thế nào?
+Được.\Bạn muốn làm gì?
+Tôi đói. Tôi muốn ăn thứ gì đó.\Bạn muốn đi đâu?
+Tôi muốn đi tới một nhà hàng Ý.\Bạn thích loại món ăn Ý nào?
+Tôi thích spaghetti. Bạn có thích spaghetti không?\Không, tôi không thích, nhưng tôi thích pizza.
+David, bạn muốn ăn món gì không?\Không, tôi no rồi.
+Bạn muốn uống thứ gì không?\Vâng, tôi muốn một ít cà phê.
+Rất tiếc, tôi không có cà phê.\Được thôi. Tôi sẽ uống một ly nước.
+Ly nhỏ hay ly lớn?\Làm ơn cho ly nhỏ.
+Của bạn đây.\Cảm ơn.
+Không có gì.\
+Mary, bạn muốn mua thứ gì để ăn cùng với tôi không?\Được, khi nào?
+Lúc 10 giờ.\10 giờ sáng hả?
+Không, tối.\Xin lỗi, lúc đó trễ quá. Tôi thường đi ngủ khoảng 10 giờ tối
+30 chiều thì sao?\Không, như vậy sớm quá. Lúc đó tôi vẫn còn đang làm việc.
+Vậy 5 giờ chiều?\Được đó.
+Tốt, gặp bạn lúc đó.\Được, tạm biệt.
+Jennifer, bạn có muốn ăn tối với tôi không?\Vâng, tốt lắm. Bạn muốn đi khi nào?
+Hôm nay được không?\Rất tiếc, tôi không thể đi hôm nay.
+Tối mai thì sao?\Được, mấy giờ?
+9 giờ tối được không?\Tôi nghĩ như vậy trễ quá.
+6 giờ chiều được không?\Tốt rồi. Bạn muốn đi đâu?
+Nhà hàng Ý trên đường số 5.\Ồ, tôi không thích nhà hàng đó. Tôi không muốn đi tới đó.
+Vậy nhà hàng Hàn Quốc cạnh đó thì sao?\Được, tôi thích nơi đó.
+Chào Mark.\Chào.
+Bạn dự tính làm gì hôm nay?\Tôi chưa biết chắc.
+Bạn muốn ăn trưa với tôi không?\Vâng, khi nào?
+30 sáng được không?\Xin lỗi tôi không nghe rõ. Bạn nói lại được không?
+30 sáng.\Ồ, khi đó tôi bận. Chúng ta có thể gặp nhau trễ hơn một chút được không?
+30 trưa thì sao?\Được, ở đâu?
+Nhà hàng hải sản Bill thì sao?\Được. Nó ở đâu?
+Nó ở trên đường số 7.\Được, tôi sẽ gặp bạn ở đó.
+Xin chào ông, chào mừng đến với nhà hàng Vườn Pháp. Ông đi bao nhiêu người?\Một.
+Ngay lối này. Xin mời ông ngồi. Một lúc nữa cô phục vụ sẽ tiếp ông.\Xin chào ông, ông muốn gọi món ăn bây giờ không?
+Vâng, làm ơn.\Ông muốn uống gì?
+Cô có những thức uống gì?\Chúng tôi có nước đóng chai, nước trái cây, và cô ca.
+Làm ơn cho tôi một chai nước.\Ông muốn dùng món gì?
+Tôi sẽ dùng món bánh xăng uých cá ngừ và một chén súp rau.\
+Chris, bạn đang đi đâu vậy?\Tôi đi cửa hàng. Tôi cần mua vài thứ.
+Vậy hả? Tôi cũng cần đi ra cửa hàng.\Bạn muốn đi với tôi không?
+Vâng, chúng ta cùng đi.\Bạn muốn đi bây giờ hay lát nữa?
+Bây giờ.\Cái gì?
+Bây giờ thì tốt hơn.\Được, chúng ta hãy đi.
+Chúng ta nên đi bộ không?\Không, xa lắm. Chúng ta hãy lái xe đi.
+Laura, bạn sẽ làm gì hôm nay?\Tôi sẽ đi mua sắm.
+Mấy giờ bạn đi?\Tôi sẽ đi khoảng 4 giờ.
+Bạn có thể mua cho tôi ổ bánh mì xăng uých giăm bông ở cửa hàng được không?\Được.
+Bạn có đủ tiền không?\Tôi không chắc.
+Bạn có bao nhiêu?\25 đô. Bạn nghĩ rằng như vậy đủ không?
+Như vậy không nhiều lắm.\Tôi nghĩ được. Tôi cũng có 2 thẻ tín dụng.
+Để tôi đưa bạn thêm 10 đô.\Cám ơn. Gặp lại sau.
+Tạm biệt.\
+Chào Richard.\Chào Karen.
+Bạn thế nào?\Không khỏe lắm.
+Tại sao vậy?\Tôi bị ốm.
+Rất tiếc nghe bạn ốm.\Được thôi. Không nghiêm trọng đâu.
+Tốt. Còn bà xã bạn khỏe không?\Bà ấy khỏe.
+Bây giờ bà ấy có ở Mỹ không?\Không, bà ấy chưa qua đây.
+Bà ấy ở đâu?\Bà ấy ở Canada với mấy đứa nhóc của chúng tôi.
+Tôi hiểu. Tôi phải đi bây giờ. Cho tôi gửi lời chào bà xã của bạn.\Được, tôi sẽ nói chuyện với bạn sau.
+Tôi hy vọng bạn sẽ cảm thấy khỏe hơn.\Cám ơn.
+Robert, đây là bạn tôi, bà Smith.\Chào, rất vui gặp bạn.
+Cũng rất vui gặp bạn.\Bà Smith, bạn làm nghề gì?
+Tôi là bác sĩ.\Ồ, bạn làm việc ở đâu?
+Bệnh viện đại học New York ở thành phố New York. Bạn làm nghề gì?\Tôi là thầy giáo.
+Bạn dạy môn gì?\Tôi dạy tiếng Anh.
+Ở đâu?\Tại một trường trung học ở New Jersey.
+Thực là tốt. Bạn bao nhiêu tuổi?\Tôi 32.
+Xin lỗi.\Xin chào ông, tôi có thể giúp gì ông?
+Vâng, tôi có thể xem cái áo sơ mi ở trên kệ trên cùng không?\Dĩ nhiên, nó đây.
+Nó giá bao nhiêu?\50 đô.
+50 đô. Như vậy mắc quá.\Cái này thì sao? Nó giảm giá chỉ có 35 đô.
+Tôi không thích cái đó.\Còn cái cạnh đôi găng tay đen thì sao? Nó rất giống cái ông thích.
+Nó đẹp đấy. Nó giá bao nhiêu?\30 đô.
+Tốt lắm.\Màu này được không, hay ông thích màu khác?
+Cái màu xanh đó được rồi.\Ông còn cần thêm cái áo sơ mi nào giống như vậy nữa không?
+Vâng.\Ông muốn mấy cái?
+Tôi sẽ lấy thêm 2 cái nữa, một cái đỏ và một cái trắng.\
+Xin lỗi, tôi đang tìm Lữ Quán Holiday. Bạn biết nó ở đâu không?\Chắc rồi. Nó ở dưới con đường này phía bên trái.
+Nó có xa đây không?\Không, không xa đâu.
+Bao xa?\Khoảng một dặm rưỡi.
+Mất bao lâu để tới đó?\Khoảng năm phút.
+Nó có gần đường xe điện ngầm không?\Vâng rất gần. Nhà ga xe điện ngầm ở bên cạnh khách sạn. Bạn có thể đi bộ tới đó.
+Cám ơn rất nhiều.\
+Xin lỗi. Bạn biết đường nào đi tới khu mua sắm không?\Biết chứ. Tôi từng làm việc ở đó. Đi thẳng khoảng một dặm rồi rẽ trái chỗ đèn xanh đỏ. Khu mua sắm ở bên tay phải.
+Bạn có biết địa chỉ không?\Vâng, địa chỉ là 541 đường Main.
+Bạn có thể viết ra giấy cho tôi được không?\Không thành vấn đề.
+Tôi đi theo đại lộ Highland có nhanh hơn không?\Không, lối đó lâu hơn. Có nhiều đèn đỏ hơn trên đường đó.
+Tôi nghĩ bạn đúng. Cám ơn.\
+Hôm nay ngày mấy?\Mùng năm tháng bảy.
+Khi nào bạn đi nghỉ mát?\Tôi sẽ đi vào chủ nhật. Chúng tôi sẽ đi Canada.
+Vậy hả? Ngày kia? Như vậy rất sớm.\Vâng tôi biết.
+Bạn sẽ ở đó bao lâu?\Khoảng 2 tuần.
+Khi nào bạn trở về?\Tôi sẽ trở về vào ngày 17.
+Tốt. Chúc bạn có một chuyến đi vui vẻ.\
+Joseph, người phụ nữ đó là ai vậy?\Đó là Susan.
+Cô ta làm nghề gì?\Cô ta là luật sư.
+Cô ta có phải là người Mỹ không?\Không, nhưng cô ta nói tiếng Anh lưu loát.
+Cô ta rất cao. Bạn có quen cô ta không?\Có, tôi có quen cô ta. Chúng tôi là bạn.
+Còn người đàn ông đứng cạnh cô ta là ai?\Người đàn ông nào?
+Người đàn ông thấp phía bên trái cô ta. Tên anh ta là gì?\Ô, đó là Matt.
+Anh ta thực sự đẹp trai.\Vâng.
+Bạn có quen anh ta không?\Tôi không quen anh ta, nhưng tôi nghĩ em gái tôi có quen.
+Anh ta có gia đình chưa?\Có, anh ta có gia đình.
+Bây giờ tôi nhớ rồi. Tôi đã gặp anh ta trước đây.\
+Brian, bạn biết nói tiếng Anh không?\Có.
+Bạn đã học ở đâu?\Tôi học ở đại học.
+Bạn nói giỏi lắm.\Cám ơn.
+Bạn đã ở Mỹ bao lâu rồi?\3 tuần.
+Vợ bạn có đi với bạn không?\Có, cô ấy vừa tới đây hôm qua.
+Trước đây bạn có tới California chưa?\Chưa, tôi chưa bao giờ tới đó.
+Bạn đã từng tới Las Vegas chưa?\Có. Tôi đã tới đó một lần khi đi công việc.
+Jeff, tôi sắp đi siêu thị. Bạn muốn đi với tôi không?\Tôi nghĩ giờ này siêu thị đóng cửa rồi.
+Ô. Nó đóng cửa lúc mấy giờ?\Nó đóng cửa lúc 7 giờ vào chủ nhật.
+Tệ quá.\Đừng lo, chúng ta có thể đi vào sáng mai. Nó mở cửa lúc 8 giờ.
+Thôi được. Bây giờ bạn muốn làm gì?\30 tối và rồi tất cả chúng ta có thể đi ra ngoài ăn tối.
+Cô ta sống ở đâu?\Cô ta sống ởSan Francisco.
+Cô ta đã sống ở đó bao lâu rồi?\Tôi nghĩ cô ta đã sống ở đó khoảng 10 năm.
+Đó là một quãng thời gian dài. Trước đó cô ta sống ở đâu?\San Diego.
+Charles, bạn có con không?\Có.
+Bạn có mấy đứa con?\Tôi có hai đứa. Một trai một gái.
+Tên chúng nó là gì?\Jack và Stephanie.
+Chúng nó mấy tuổi?\Stephanie 18 và Jack 24.
+Chúng nó còn đi học không?\Stephanie còn đi học. Cô ta đi học đại học ở Washington và Jack làm việc ở Florida.
+Stephanie học gì?\Cô ta học tiếng Anh.
+Bây giờ cô ta có đây không?\Không, cô ta đang ở trường.
+William, bạn có thích học tiếng Anh không?\Tôi thích học tiếng Anh, và tôi có thể đọc khá, nhưng nói có thể khó khăn.
+Không tệ như vậy đâu. Nếu bạn nói chuyện với những người bạn Mỹ của bạn mỗi ngày, bạn sẽ học nhanh.\Tôi có thể hỏi bạn một câu hỏi được không?
+Dĩ nhiên, bạn muốn biết điều gì?\Tôi có quyển sách học trong lớp ở đây. Bạn phát âm chữ này như thế nào?
+“Laptop”\Rất tiếc, tôi không hiểu. Như vậy có nghĩa gì?
+Laptop là một loại máy tính bạn có thể mang theo cùng với bạn. Bạn hiểu không?\Vâng, tôi nghĩ vậy. Bạn có thể phát âm lại lần nữa được không?
+Laptop.\Laptop. Tôi phát âm như vậy có đúng không?
+Đúng rồi. Tốt lắm.\Cám ơn. Còn chữ này. Bạn phát âm chữ này như thế nào?
+Chữ đó phát âm là “kitchen”.\Cám ơn rất nhiều. Bạn thực là một thầy giáo giỏi.
+Cám ơn.\
+Hê. Mọi việc thế nào?\Không tốt. Tôi mất ví rồi.
+Ô, tệ quá. Nó bị đánh cắp hả?\Không, tôi nghĩ nó bị rơi ra khỏi túi khi tôi ngồi trong tắc xi.
+Tôi có thể làm điều gì không?\Tôi có thể mượn một ít tiền được không?
+Dĩ nhiên. Bạn cần bao nhiêu?\Khoảng 50 đô.
+That’s no problem.\Cám ơn. Tôi sẽ trả lại bạn vào thứ sáu.
+Như vậy tốt rồi. Tiền đây.\Bạn sẽ làm gì bây giờ.
+Tôi sẽ mua vài cuốn sách rồi tôi sẽ đi tới cây xăng.\Nếu bạn chờ một chút tôi có thể đi với bạn.
+Được. Tôi sẽ chờ bạn.\
+A lô?\Xin chào, James có đó không?
+Vâng, ai gọi vậy?\ One moment please.
+ OK.\ Hello?
+ Hi James, it’s Linda.\ Hi Linda.
+ What are you doing now?\ I’m working.
+ Are you busy?\ Yes. It’s been really busy here all day.
+ What time do you get off of work?\ 8
+ I’ll call you back after 8\ OK. Talk to you later.
+ Bye bye.\Bài học 26 – Chuyến đi của gia đình.
+David, dạo gần đây bạn làm gì?\Tuần trước tôi đi du lịch với gia đình.
+Vậy hả? Các bạn đi đâu?\Chúng tôi đi Âu Châu.
+Các bạn đi thăm những thành phố nào?\Luân Đôn, Paris và một vài thành phố nhỏ hơn.
+Các bạn có đi Berlin không?\Không, chúng tôi không đi đến đó. Tôi muốn đi đến đó lần tới.
+Tôi nghĩ mùa hè là thời điểm tốt để thăm Berlin. Đó là một nơi đẹp và dân chúng rất đáng yêu.\Tôi đã nghe như vậy.
+I went there last year. If you want, I can give you some information I have about the city.\Cám ơn.
+Sarah, bạn đã làm gì ngày hôm nay\Tôi đi mua sắm.
+Bạn đã mua gì không?\Có, tôi mua một vài món.
+Bạn mua gì?\Tôi mua cái áo choàng này. Bạn thích nó không?
+Vâng, tôi thích nó lắm. Nó rất đẹp. Bạn mua nó ở đâu?\Ở khu mua sắm trên đường thứ 5.
+Nó có đắt không?\Không, nó không đắt. Nó giảm giá chỉ còn 20 đô.
+Rẻ đấy.\Tôi biết. Nó rất đáng giá.
+Tôi không nghĩ là bạn cần mặc nó ngay đâu. Trời rất nóng dạo gần đây.\
+Paul, bạn thích nghe loại nhạc nào?\Mọi thể loại, nhưng phần lớn là pop, rốc và cổ điển. Tại sao bạn hỏi?
+Tôi có vé để đi xem một buổi trình diễn. Bạn muốn đi với tôi không?\Loại nhạc gì vậy?
+Pop. Ca sĩ Mariah Carey.\Khi nào vậy?
+8 giờ tối mai.\Vâng, tôi thích đi. Bạn có nghĩ rằng chúng ta nên ăn tối trước không?
+Vâng, đó là ý kiến hay.\Chúng ta hãy ăn ở nhà hàng đối diện với căn hộ của tôi phía bên kia đường.
+Ô, tôi nghĩ tôi biết nơi bạn nói rồi. Chúng ta đã ăn ở đó hồi tháng trước phải không?\Đúng rồi. Bạn có trí nhớ tốt đó.
+Lisa, bạn có muốn đi thư viện với tôi không?\Được, bạn có nghĩ rằng chúng ta có thể đi mua một tờ báo trước không?
+Được chứ. Chúng ta sẽ đi mua báo trước rồi chúng ta đi thư viện.\Chúng ta sẽ đi bộ hay đi xe?
+Thời tiết hôm nay rất đẹp. Chúng ta đi bộ đi.\Thời tiết đẹp ngay lúc này, nhưng tôi nghĩ trời có thể mưa chiều nay.
+Được thôi, vậy thì chúng ta hãy mang theo dù. Anh của bạn có đi với chúng ta không?\Không, anh ấy còn đang ngủ.
+Ôi, 10 giờ sáng rồi. Chắc chắn là tối hôm qua anh ta đã thức khuya lắm.\Vâng, mãi tới 12 giờ đêm anh ấy mới về nhà.
+Tôi hy vọng anh ấy có thể đến sau.\Tôi cũng hy vọng vậy. Tôi sẽ gọi anh ấy khi chúng ta tới đó.
+Từ đây chúng ta đi thư viện lối nào?\Đi thằng xuống con đường này phía bên trái, bên cạnh bảo tàng viện. Mất khoảng 10 phút.
+Chào Melissa, bạn sẽ về nhà cuối tuần này không?\Không, cuối tuần này thì không. Tôi có nhiều việc phải làm quá.
+Bố mẹ bạn sống ở đâu?\Bố tôi sống ởWashingtonDC.
+Còn mẹ bạn?\Mẹ tôi mất cách đây hai năm rồi.
+Ồ, tôi rất tiếc nghe như vậy. Bố bạn còn đi làm không?\Không, ông ấy về hưu rồi.
+Bạn có họ hàng ở đây không?\Có, hai người trong số anh chị em họ của tôi sống ở đây và cô chú tôi sống cách đây khoảng 30 dặm.
+Bạn có anh chị em gì không?\Có, tôi có 2 người anh (em) sống ở New York và một người chị (em gái) sống ở Boston.
+Bạn có thường gặp họ không?\Không được nhiều như tôi muốn. Thường chỉ vào những ngày nghỉ như Lễ Tạ Ơn và Giáng Sinh.
+Tôi không thể tìm thấy cặp kiếng của tôi và tôi không thấy gì hết. Bạn có thể giúp tôi tìm vài thứ được không?\Không có vấn đề gì. Bạn đang tìm cái gì?
+Máy tính xách tay của tôi, bạn thấy nó không?\Có, máy tính của bạn ở trên ghế.
+Quyển sách của tôi ở đâu?\Quyển sách nào?
+Quyển từ điển.\Nó ở dưới cái bàn.
+Bút chì của tôi ở đâu?\Có một cây viết chì trước cái đèn.
+Đó không phải là viết chì. Đó là viết mực.\Ồ, xin lỗi. Có một cây viết chì sau cái tách.
+Còn ba lô của tôi thì sao? Bạn biết nó ở đâu không?\Nó ở giữa bức tường và giường ngủ.
+Đôi giày của tôi ở đâu?\Chúng ở bên trái của cái ti vi.
+Tôi không trông thấy chúng.\Xin lỗi, tôi lầm. Chúng ở bên phải của cái ti vi.
+Cám ơn.\Ồ, còn đây là cặp kiếng của bạn. Chúng ở cạnh cái điện thoại di động của bạn.
+Xin lỗi. Cho tôi phiếu tính tiền.\Vâng được, món ăn thế nào?
+Ngon lắm. Cám ơn.\Bạn có muốn mang về món này không?
+Vâng, bạn có thể bỏ nó vào một cái bao ny lông không?\Được chứ, không có vấn đề gì. Của bạn đây. Tất cả 25 đô.
+Bạn có nhận thẻ tín dụng không?\Có, chúng tôi nhận thẻ Visa và MasterCard.
+Được, đây.\Cám ơn, tôi sẽ trở lại ngay.
+Vâng.\Đây là hóa đơn của bạn.
+Cám ơn.\Không có gì. Mong bạn sẽ trở lại.
+Người tiếp theo, làm ơn. Tôi có thể giúp gì bạn?\Tôi muốn mua một vé đi New York.
+Bạn muốn vé một chiều hay khứ hồi?\Vé khứ hồi.
+Bạn sẽ đi khi nào?\Khi nào thì chuyến bay kế tiếp cất cánh?
+Trong khoảng 2 giờ.\Tôi muốn một vé cho chuyến bay đó.
+Hạng nhất hay hạng thường?\Hạng thường.
+Được, để tôi xem còn vé không. Tôi rất tiếc. Vé cho chuyến bay đó bán hết mất rồi.\Còn chuyến bay kế đó thì sao
+Để tôi xem. Vâng, chuyến đó còn ghế. Bạn có muốn tôi dành sẵn cho bạn một ghế không?\Vâng, làm ơn.
+Giá vé là 120 đô.\Được.
+Cám ơn. Tiền thối lại của bạn đây.\
+Michelle, bạn có thể giúp tôi dọn dẹp mọi thứ trước khi chúng ta đi không?\Được chứ. Tôi nên đặt cái tách này ở đâu?
+Cái tách nào?\Cái đỏ.
+Đặt nó trên mặt bàn.\Còn số trái cây này.
+Ô, đặt chúng vào tủ lạnh.\Và những cây viết chì này. Tôi nên làm gì với chúng?
+Mang chúng lên lầu và đặt chúng trong phòng ngủ.\Còn cây viết này?
+Đưa nó cho tôi. Tôi cần dùng nó.\Bạn muốn tôi làm gì với tờ báo ở đằng kia?
+Bạn có thể quẳng nó đi. Tôi không cần nó nữa.\Thùng rác đầy rồi.
+Thôi được, vậy đặt nó vào một cái bao và mang ra ngoài.\Được rồi. Bây giờ làm gì?
+Tôi nghĩ chúng ta xong rồi. Bạn có thể tắt đèn và đóng cửa được không?\Được chứ.
+Đây trông có vẻ một nhà hàng ngon đấy.\Đúng vậy. Tôi rất thường đến đây.
+Chúng ta hãy ngồi ở đằng kia.\Được.
+Bạn có thể đưa tôi tấm thực đơn được không?\Được chứ. Bạn sẽ uống gì?
+Tôi sẽ uống một ly bia. Còn bạn?\Tôi nghĩ tôi sẽ uống một ly rượu.
+Bạn có muốn kêu một món khai vị trước không?\Không thực sự muốn, có lẽ chúng ta có thể kêu một ít bánh mì.
+Được. Bạn sẽ ăn món gì?\Tôi không chắc. Tôi chưa quyết định. Bạn có thể đề nghị món gì không?
+Được chứ. Tôi đã ăn món thịt bít tết và tôm hùm trước đây. Cả hai món đều ngon.\Tôi nghĩ tôi sẽ ăn tôm hùm. Bạn sẽ ăn món gì?
+Tôi không đói lắm. Tôi nghĩ tôi chỉ ăn một dĩa rau sống trộn dầu giấm.\Tôi sẽ vào phòng vệ sinh. Khi người phục vụ trở lại, bạn gọi món ăn giúp tôi được chứ?
+Dĩ nhiên. Không có vấn đề gì.\
+Chào Anna, vào đi.\Ồ, căn hộ bạn bừa bãi vậy.
+Tôi biết. Tôi không có thời gian cất mọi thứ đi trước khi bạn tới đây.\Xem kìa! Có phải đó là quần áo của bạn trên cái đi văng không?
+Vâng.\Chúng có sạch không?
+Sự thực thì phần lớn là đồ bẩn. Tôi không giặt quần áo một thời gian rồi. Tôi thường chờ cho tới khi tôi có thể giặt chúng ở nhà bố mẹ tôi.\Chị (em gái) tôi và tôi thường đi tới tiệm cho thuê máy giặt ở dưới đường. Tại sao bạn không tới đó?
+Tôi biết tôi nên tới đó, nhưng nơi đó không tiện lợi lắm. Bạn phải chờ lâu.\Vâng tôi biết. Tôi phải giặt quần áo hàng tuần. Dù sao, bạn sẵn sàng đi chưa?
+Chưa đâu, tôi chưa sẵn sàng đi. Tôi còn phải đánh răng và rửa mặt. Bạn có thể chờ vài phút được không?\Được, nhưng làm ơn nhanh lên. Tôi nghĩ nhà hàng sắp đóng cửa rồi.
+Pam, máy ATM gần đây nhất ở đâu?\Không xa đâu. Bạn thấy tòa nhà vàng đằng kia không?
+Tòa nhà lớn hay nhỏ?\Tòa nhà lớn.
+Có.\Nó ở ngay bên cạnh, phía bên phải.
+Bạn có biết có một cửa hàng tiện lợi gần đây không?\Tôi không nghĩ là có một cửa hàng gần đây. Cửa hàng gần nhất ở trên đường thứ 3, nhưng giờ này có lẽ đóng cửa rồi.
+Tôi thực sự cần mua một vài món trước khi tôi đi.\Ồ, bạn có thể đi xuống đường thứ 22. Có nhiều cửa hàng ở đó mở cửa 24 giờ một ngày.
+Tôi có thể đi xe điện ngầm tới đó được không?\Được, nhưng như vậy mất khoảng nửa tiếng. Bạn nên đi tắc xi.
+Đi như vậy không đắt sao?\Không, từ đây tôi nghĩ chỉ tốn khoảng 5 đô.
+Thưa giáo sư, Canada ở đâu?\Canada ở phía bắc của nơi này.
+Thấy có thể chỉ cho tôi trên bản đồ được không?\Được chứ. Nhìn ở đây. Canada ở phía bắc của nước Mỹ.
+Ô, tôi thấy rồi. Mexico ở đâu?\Mexico ở phía nam của nước Mỹ.
+Còn Connecticut? Nơi đó ở đâu?\Connecticut ở phía đông của New York.
+Bang nào ở phía tây của Pennsylvania?\ OK, Where’s Los Angeles?
+ Los Angelesis inCalifornia. It’s southeast ofSan Francisco.\ Where’s Boston?
+ Boston is in the northeast part of the country.\ Where is Las Vegas?
+ Las Vegas is in the southwest.\Bài học 39 – Tôi ăn ở khách sạn.
+Chào Maria, bạn ăn sáng chưa?\Vâng, tôi ăn ở khách sạn với con trai và chồng tôi.
+Ô, ở đó họ có thức ăn ngon. Bạn dùng món gì?\Tôi dùng ngũ cốc, trứng chiên và nước cam vắt.
+Mấy món đó thế nào?\Thức ăn không ngon lắm, thực sự là bây giờ tôi không cảm thấy khỏe lắm.
+Tệ quá. Bạn muốn nghỉ một lúc không?\Không. Tôi sẽ trở lại khách sạn vào giờ ăn trưa để nằm nghỉ.
+Được. Lát nữa tôi sẽ đi tới tiệm thuốc tây. Tôi có thể mua cho bạn thứ gì không?\Không, được thôi. Tôi nghĩ là nếu tôi nghỉ một lúc tôi sẽ cảm thấy khỏe hơn.
+Ann, bạn muốn làm gì tối nay?\Tôi muốn đi xem phim.
+Tôi nghe nói phim Titanic đang chiếu ở rạp.\Ô, tôi nghe nói đó là một bộ phim hay. Mấy giờ nó bắt đầu?
+30 tối. Đó là một bộ phim dài. Tôi nghĩ nó dài khoảng 3 tiếng.\Bạn có thể đến đón tôi được không?
+Mấy giờ?\00 giờ chiều được không?
+00 giờ chiều.\Bạn có muốn mua gì để ăn trước khi xem phim không?
+Tôi không nghĩ có đủ thời gian cho việc đó. Chúng ta có thể ăn ngô rang và bánh mì xúc xích tại rạp chiếu phim nếu bạn muốn.\Tôi không thích ngô rang họ bán ở đó. Tôi nghĩ họ bỏ nhiều muối quá.
+Thôi được. Tôi sẽ đón bạn sớm hơn một chút và chúng ta có thể đi đến nhà hàng Thái bên cạnh rạp chiếu phim. Như vậy được không?\Vâng, tôi thích nơi đó.
+Bạn thích món ăn lắm không?\Nó rất ngon. Bạn đã nấu món đó hả?
+Vâng, tôi nấu hồi chiều nay. Bạn muốn ăn thêm không?\Vâng, nhưng chỉ một ít thôi. Tôi thực sự no rồi.
+Ồ. Bạn muốn một ít xúp thay vào đó không?\Loại xúp gì?
+Cà chua và gạo. Bạn đã ăn món đó trước đây chưa?\Chưa. Đây là lần đầu. Nó có vị ra sao?
+Ngon, thử xem. Bạn nghĩ sao?\Ô. Nó ngon lắm. Bạn cũng đã làm món này hả?
+Vâng.\Bạn thực sự là một đầu bếp giỏi.
+Cám ơn, lần tới tôi sẽ làm món xúp gà cho chúng ta.\Nghe hay đấy. Bạn đã học nấu ăn trong trường hả?
+Không, tôi tự học. Tôi có một quyển sách dạy nấu ăn tốt tôi vẫn đọc khi có thời gian.\
+Kelly, bạn có thể giúp tôi đưa mấy thứ này ra xe được không?\Được, bạn muốn tôi đặt chúng vào xe nào?
+Đưa chúng ra xe của vợ tôi.\Which one is hers’?
+The blue SUV in front of the Honda.\Tôi nên mang thứ gì trước?
+Chiếc ghế ở đằng kia, nhưng làm ơn cẩn thận. Nó là một món quà từ mẹ vợ tôi.\Đừng lo, tôi không đánh rơi nó đâu. Ôi, nó thực sự là nặng. Tôi không nghĩ rằng tôi có thể chuyển nó đi tự một mình tôi được.
+Để tôi giúp bạn. Tôi không muốn bạn bị đau lưng.\Bạn mang tất cả mấy thứ này đi đâu?
+Tôi đã không nói với bạn hả? Chúng tôi chuyển đi Florida?\Bạn chuyển đi bây giờ sao? Tôi biết là bạn sắp chuyển đi, nhưng tôi nghĩ bạn đã nói là bạn sẽ chuyển đi vào tháng tới.
+Vâng, đúng vậy, nhưng vợ tôi tìm được một căn hộ mới trên Internet một ngày nọ và bà ấy muốn chuyển đi ngay.\
+Judy, chồng bạn có một chiếc xe thực sự là đẹp.\Cám ơn. Nó tốt hơn chiếc của tôi nhiều, và nó mới.
+Các bạn sẽ đi đâu?\Chúng tôi sẽ đi thăm chị tôi trong thành phố.
+Tôi không biết là chị của bạn sống trong thành phố. Chị ấy chuyển đến đó khi nào?\Cách đây khoảng một năm. Chị ấy sống trong một căn hộ trên đường thứ 3, phía bên kia đường đối diện thư viện công cộng.
+Tôi hiểu. Bây giờ gần 5 giờ chiều rồi, bạn không nghĩ rằng sẽ đông xe cộ sao?\Ô, chúng tôi không lái xe đi. Chúng tôi sẽ đi xe điện ngầm. Xe điện ngầm chỉ mất khoảng 20 phút.
+Vâng, nhưng nó có thể rất đông khoảng giờ này. Tôi luôn luôn cảm thấy bực bội khi đi xe điện ngầm.\Tôi dùng xe điện ngầm để đi làm hàng ngày, vì vậy bây giờ tôi quen rồi.
+Mẹ bạn không sống trong thành phố sao?\Có, bà ấy sống ở đó khoảng 10 năm rồi.
+Tôi nhớ khi bà ấy chuyển đến đó. Những căn hộ hồi đó rẻ hơn nhiều.\Tôi biết ý bạn muốn nói gì. Bây giờ khó tìm được thứ gì mà giá cả hợp lý.
+Chúc bạn vui. Kỳ tới khi nào bạn rảnh hãy gọi điện thoại cho tôi và chúng ta sẽ đi chơi xì phé.\Hẹn gặp bạn sau.
+Jim, tôi nghe nói bạn có một chuyến đi đến San Diego. Đúng không?\Vâng, tôi vừa trở về vào sáng nay.
+Nghe thú vị đấu. Bạn làm gì ở đó?\Ờ, chúng tôi chỉ ở đó 3 ngày, vì vậy chúng tôi không làm gì nhiều. Chúng tôi đi mua sắm và đi ra ngoài ăn tối vài lần. Buổi tối chúng tôi đi dạo quanh thành phố với vài người bạn.
+Bạn có chụp ảnh không?\Có, tôi có mang chúng đây. Bạn có muốn xem không?
+Có chứ, tôi thích xem ảnh.\Đây là ảnh vợ tôi và tôi trên bãi biển, và đây là ảnh con gái chúng tôi Emily đứng cạnh vợ tôi.
+Con gái bạn trông giống mẹ.\Tôi biết, họ rất giống nhau.
+Tấm ảnh này chụp ở đâu?\Tấm ảnh đó chụp ở nhà ga xe lửa trước khi chúng tôi đi.
+Bạn có thời gian để đi thăm sở thú không?\Không, lần này thì không. Chúng tôi đã đến đó lần trước.
+Trông có vẻ tất cả các bạn đã có một thời gian thú vị.\Vâng, chuyến đi vui lắm.
+Xin chào, tôi có thể giúp gì bạn?\Chào, tôi muốn đặt mua vài bông hoa.
+Bạn mua cho ai?\Cho vợ tôi. Tên bà ấy là Samantha.
+Bạn muốn loại hoa gì?\Tôi không biết. Tôi không biết nhiều về hoa. Bạn có thể giới thiệu hoa gì đó không?
+Được, lý do gì bạn gửi hoa cho bà ấy?\Hôm nay là sinh nhật của bà ấy và bà ấy nói với tôi bà ấy muốn tôi tặng hoa.
+Bạn có biết bà ấy thích loại hoa gì không?\Tôi không chắc. Tôi biết tôi nên biết điều đó, nhưng ngay bây giờ tôi kô thể nhớ được.
+Ờ, chúng được tặng cho vợ bạn, vì vậy tôi nghĩ bạn nên tặng bà ấy hoa hồng.\Hoa hồng tốt lắm.
+Màu gì ạ?\Tôi nghĩ màu đỏ sẽ rất đẹp.
+Bạn muốn tới lấy hay chúng tôi đưa tới nhà?\Bạn có thể giao chúng tới nhà được không?
+Địa chỉ là gì?\241 đường Main.
+Được rồi, chúng sẽ được giao tới đó trong vòng 2 tiếng.\
+A lô.\Chào, Heather có đó không?
+Xin lỗi, tôi nghĩ bạn gọi lầm số.\Có phải số 617-228-2289?
+Vâng, bạn cho biết lại bạn đang tìm ai?\ Oh, I thought you said Laura. Sorry about that. This is the right number, but Heather’s not here right now.
+ Do you know where she went?\ She went to the store to buy some groceries. Would you like to leave a message?
+ Yes, would you please tell her Eric Martin called?\ Hi Eric, this is her roommate Kathy. I met you a couple months ago at the Christmas party.
+ Oh, yes. How are you?\ Good. Heather will be back in about 20 minutes. I’ll tell her you called.
+ OK. Thanks.\ Bye bye.
+A lô.\Chào Tina, Joe đây.
+Chào Joe.\Thời tiết ở đó thế nào?
+Lạnh lắm. Trời mưa tuyết suốt ngày và các trường học đóng cửa sớm.\Nhiệt độ bao nhiêu?
+Bây giờ là 30 độ (độ F ~ âm 1.11 độ C). Sáng nay thậm chí còn lạnh hơn.\Bạn có nghe nói thời tiết ngày mai sẽ thế nào không?
+Tôi vừa mới xem tin tức. Họ nói trời có thể có tuyết ngày mai.\Tôi thực sự không thích mùa đông. Tôi ước gì bây giờ là mùa hè.
+Tôi cũng vậy. Thời tiết chỗ bạn thế nào?\Không tệ lắm, nhưng ở đây cũng khá lạnh. Hôm nay khoảng 45 độ và trời mưa hồi chiều. Tôi nghe nói ngày mai trời sẽ ấm hơn một chút.
+Gần Giáng Sinh rồi. Bạn sẽ làm gì cuối tuần này?\Không có gì đặc biệt, chỉ làm việc thôi. Tại sao bạn hỏi?
+Ờ, tôi chưa mua sắm xong cho ngày Giáng Sinh. Bạn muốn đi mua sắm với tôi cuối tuần này không?\Tôi muốn lắm nhưng tôi không chắc là tôi có thể đi. Công việc dạo gần đây bận lắm. Thay vì vậy tại sao chúng ta không đi vào ngày thứ sáu?
+Thứ sáu không tiện. Tôi nghĩ những cửa hàng sẽ rất đông và tôi phải làm việc.\Được, vậy chúng ta sẽ gắng đi cuối tuần này. Vào thứ sáu tôi sẽ biết tôi có thể đi được không. Tôi gọi điện thoại cho bạn khi đó được không?
+Vâng, tốt rồi.\Số điện thoại của bạn là số mấy?
+233-331-8828. Để tôi cho bạn cả địa chỉ email của tôi. Nó là sara@gmail.com.\Được, tôi sẽ nói chuyện với bạn sau.
+Được.\
+A lô?\Chào Vicky.
+Bạn đã tới đó chưa?\Rồi.
+Tôi vừa mới xuống xe điện ngầm. Tôi gần tới đó rồi. Xin lỗi bị trễ.\Không có vấn đề gì đâu. Tôi chỉ muốn nói với bạn là tôi vào trong rồi.
+Bạn ở đâu?\Trên lầu hai.
+Tôi lên lầu hai hay bạn muốn xuống lầu một?\Lên lầu.
+Cái gì?\Ôi, bạn nghe tôi rõ không? Tôi nói, lên lầu hai.
+Ồ, được. Bạn đang làm gì ở đó?\Chỉ xem vài cuốn sách về học tiếng Anh như thế nào.
+Bạn có muốn mua gì để lát nữa ăn không?\Không, tôi ăn tối vẫn còn no.
+Bạn muốn làm gì?\Tôi không biết chắc. Khi bạn tới đây chúng ta sẽ bàn về việc đó.
+Được, sớm gặp bạn.\Bye.
+Craig, bạn làm nghề gì?\Tôi vẫn còn là sinh viên.
+Bạn đi học trường nào?\Đại học Boston.
+Đó là một trường tốt. Bạn học môn gì?\Tôi học tiếng Anh, toán và lịch sử. Môn chính của tôi là tiếng Anh.
+Bạn học tiếng Anh bao lâu rồi?\Hơn sáu năm.
+Đó là một thời gian dài.\Vâng, tôi bắt đầu học tiếng Anh khi tôi ở trung học.
+Hèn gì tiếng Anh của bạn thực là khá.\Thực ra thì không khá lắm đâu. Tôi có thể đọc nhưng tôi nói không giỏi lắm. Tôi không có nhiều cơ hội để thực hành.
+Tôi hiểu, Nói chuyện với người khác rất quan trọng.\Vâng, nhưng tôi vẫn chưa có nhiều bạn ở đây.
+Tôi có một bữa tiệc tại căn hộ của tôi tối nay. Bạn nên tới.\Ô cám ơn đã mời tôi. Tôi rất thích tới.
+Chào Kim.\Ê Shawn, rất vui gặp lại bạn.
+Bạn thế nào?\Được. Tối hôm qua tôi không ngủ nhiều lắm. Tôi thức tới 2 giờ để học thi.
+Tối hôm qua tôi cũng thức khuya. Học kỳ sắp hết rồi. Tôi phải thi cả tuần.\Bạn sẽ trở về California sau khi bạn tốt nghiệp không?
+Tôi nghĩ vậy. Sau khi tốt nghiệp có thể tôi sẽ về nhà và gắng tìm việc làm.\Bạn có biết là bạn muốn làm việc ở đâu không?
+Chưa, nhưng tôi muốn là dịch giả tiếng Anh.\Như vậy thực là tuyệt. Tôi cũng muốn là dịch giả, nhưng tôi không nghĩ rằng tiếng Anh của tôi đủ khá.
+Đừng lo. Tiếng Anh của bạn khá hơn phần lớn bạn cùng lớp của tôi.\Cám ơn. Bây giờ bạn đi đâu?
+Tôi sẽ đi học ở thư viện. Ngày mai tôi phải dự một kỳ thi.\Tôi cũng vậy. Thư viện mở cửa tới mấy giờ?
+30 tối.\Được, chúc bạn may mắn.
+Bạn cũng vậy.\
+A lô?\Chào Angela, Dan đây.
+Chào Dan. Bạn khỏe không?\Khỏe.
+Tôi gọi cho bạn hôm qua. Bạn có nhận được tin nhắn của tôi không?\Có, tôi đang tắm khi bạn gọi. Tôi biết bạn gọi và tôi gắng gọi lại cho bạn, nhưng tôi nghĩ bạn tắt máy.
+Không sao đâu. Tôi muốn nhắc bạn là bạn của tôi lập gia đìng tuần tới. Bạn vẫn sẽ đi tới tiệc cưới với tôi chứ, phải không?\Ô, tuần tới hả?
+Vâng, bạn quên rồi hả?\Không, dĩ nhiên là không. Tôi đã mua cho họ một món quà rồi.
+Tốt lắm. Tôi cũng muốn mời Megan nữa. Lần tới bạn gặp cô ấy, bạn nói với cô ấy giúp tôi được không?\Được chứ. Cô ấy có biết người bạn của bạn không?
+Có. Tôi nghĩ họ có thể đã đi học cùng trường đại học hoặc đại khái như vậy. Tôi không biết chắc làm sao họ biết nhau.\Chúng ta tất cả đi cùng xe chứ hả?
+Vâng. Tôi sẽ đón bạn trước, rồi chúng ta đi đón Megan.\
+Xin chào, tôi muốn gặp bác sĩ.\Bạn có hẹn trước không?
+Không.\Bạn muốn hẹn khi nào?
+Hôm nay được không?\Vâng. Hôm nay tốt rồi. Bạn muốn mấy giờ?
+Càng sớm càng tốt. Tôi bị đau bụng lắm.\Xin chờ một chút. Để tôi xem bác sĩ có rảnh không?
+Được.\Rất tiếc, ông ấy đang tiếp bệnh nhân. Có lẽ sẽ khoảng nửa tiếng nữa. Bạn chờ thêm một lúc nữa có phiền không?
+Không sao.\Tôi có thể xem thẻ bảo hiểm của bạn không?
+Đây nè.\Cám ơn. Lần gặp bác sĩ hôm nay sẽ là 25 đô.
+Vậy sao? Tôi đã không nghĩ là nhiều như vây.\Tôi biết bạn cảm thấy ra sao.
+Tôi sẽ trả tiền mặt.\Cám ơn.
+Bạn có thể bật máy sưởi được không? Trong này lạnh quá.\Trong này lạnh, phải không? Để tôi giải quyết bây giờ. Xin mời bạn ngồi và điền vào những mẫu đơn này. Đưa chúng cho tôi khi nào bạn xong.
+Ê Jane, bạn nhận thư từ chưa?\Có, tôi đã nhận sáng nay. Có vài hóa đơn và một lá thư từ mẹ tôi. Cũng có cả một đống thư rác.
+Có gì cho tôi không?\Tôi không nhớ, để tôi xem. Vâng, trông có vẻ có thứ gì cho bạn ở đây.
+Thư ai gửi?\Tòa đại sứ Mỹ.
+Tay tôi đang bẩn. Bạn mở thư giúp tôi được không?\Được chứ.Sure. Bill Nó nói gì?
+Nó nói thông hành của bạn đã sẵn sàng. Bạn có thể tới lấy bất cứ lúc nào.\Bạn có nghĩ là bạn có thể chở tôi tới đó được không?
+Chắc rồi, khi nào?\Tôi nghĩ là chúng ta nên đi lấy nó bây giờ. Tôi sẽ rửa tay rồi thì chúng ta đi. Được không?
+Tốt rồi.\
+Bạn cảm thấy thế nào?\Tôi vẫn bị cảm.
+Vẫn? Đã hơn một tuần rồi, phải không?\Vâng, hơi lâu rồi. Tôi bắt đầu cảm thấy như thế này thứ hai tuần trước.
+Bạn có cảm thấy khỏe hơn không?\Một ít. Tôi uống thuốc sáng nay và bây giờ tôi cảm thấy khỏe hơn một ít.
+Có gì không ổn?\Tôi bị ho nặng.
+Bạn đi gặp bác sĩ chưa?\Chưa. Tôi có thể đi ngày mai.
+Tôi sẽ đi ra tiệm thuốc tây bây giờ. Tôi có thể mua gì cho bạn không?\Vâng, nếu không phiền lắm, bạn có thể mua cho tôi một ít khăn giấy được không?
+Được chứ. Còn gì nữa không?\Không, vậy thôi.
+Được, tôi sẽ trở về trong khoảng một tiếng. Nếu bạn thấy cần gì thêm, gọi điện thoại cho tôi.\Cám ơn.
+Chào James, rất vui gặp lại bạn.\Chào Barbara.
+Bạn ở đây để làm việc hả?\Vâng.
+Steve có đi với bạn không?\Không, tôi ở đây một mình. Steve không thể tới lần này.
+Bạn sẽ ở bao lâu?\4 ngày. Tôi sẽ đi về vào thứ sáu.4 days.
+Anh trai tôi và tôi sẽ gặp nhau để ăn tối. Bạn muốn tới với chúng tôi không?\Vâng, như vậy tốt lắm. Tôi có một buổi họp khoảng một tiếng nữa. Tôi có thể gặp các bạn sau đó, nếu được. Buổi họp không kéo dài lâu.
+Tốt rồi. Bạn họp với ai?\Công ty bảo hiểmBoston. Tôi sẽ gọi cho bạn khi họp xong.
+Được.\Tôi có thể dùng điện thoại của bạn không? Tôi bỏ điện thoại trong xe và tôi muốn gọi họ để hỏi đường.
+Được chứ, đây.\
+Alô?\Chào Frank, Pam đây.
+Ê Pam, có chuyện gì vậy?\Không có gì đâu. Bạn đang ở đâu?
+Tôi đang lái xe về nhà.\Khi bạn về tới nhà bạn có thể gửi cho tôi tin nhắn chỉ đường tới bữa tiệc tối nay được không?
+Được chứ, không có vấn đề gì.\Bạn nghĩ khi nào bạn về tới nhà?
+Tôi không biết, có lẽ khoảng nửa tiếng. Đông xe quá.\Tôi phải đi ra ngoài liền. Hay bạn gửi cho tôi tin nhắn ghi địa chỉ vậy.
+Được, tôi sẽ gửi ngay khi về tới nhà.\Cám ơn nhiều. Lái xe cẩn thẩn đấy.
+Được, gặp bạn tối nay.\Bai.
+Alô?\Chào, lại là George đây. Bạn nghĩ là mấy giờ bạn sẽ tới bữa tiệc tối nay?
+Xin lỗi, bạn nói gì?\Alô, bạn nghe tôi nói không? Tôi nói là bạn nghĩ mấy giờ bạn sẽ tới bữa tiệc?
+Xin lỗi, tôi không thể nghe bạn nói.\Bạn có thể nghe tôi nói bây giờ không?
+Không, không rõ lắm. Ở đây ồn quá.\Có lẽ do cái điện thoại di động của tôi. Tôi không nghĩ tôi thu được tín hiệu tốt lắm.
+Ô, được thôi.\Tôi sẽ gọi lại cho bạn ngay được không?
+Được.\
+Ed, chúng ta nên làm gì tối nay?\Tôi đã học cả tuần. Tôi muốn tập thể dục.
+Tôi cũng vậy. Chúng ta tới phòng tập thể dục đi.\Ý kiến hay. Chúng ta sẽ làm gì ở đó?
+Chúng ta có thể tập tạ hoặc chơi bóng rổ.\Tôi thích chơi bóng rổ. Bạn chơi giỏi không?
+Không thực sự, nhưng tôi thích chơi. Tôi thường chơi nhiều khi còn ở trường, nhưng bây giờ không có thời gian.\Tôi hiểu ý bạn. Tôi thường chơi bóng đá nhiều. Bạn nghĩ chúng ta có thể chơi bóng đá ở đó không?
+Không, không có đủ chỗ. Tôi nghĩ sẽ tốt hơn nếu chúng ta chơi ở ngoài.\Được, có lẽ chúng ta có thể chơi bóng đá vào cuối buổi chiều nay.
+Hôm nay ngoài trời lạnh lắm. Chúng ta hãy chờ đến khi thời tiết ấm hơn một chút.\Được.
+Anthony, bạn khỏe không?\Bây giờ tôi khỏe, nhưng tôi bị tai nạn xe sáng nay.
+Bạn có bị đau không?\Không, nhưng cổ tôi vẫn còn hơi nhức.
+Chuyện gì đã xảy ra?\Tôi không chú ý và tôi đụng vào một chiếc xe dừng lại phía trước.
+Những người trong chiếc xe kia ổn không?\Vâng, họ ổn. Tôi không lái nhanh lắm.
+Bạn có cài thắt lưng an toàn không?\Có.
+Cảnh sát có tới không?\Có, tôi gọi họ bằng điện thoại di động ngay sau khi việc xảy ra.
+Bạn có muốn tôi chở bạn về nhà không?\Không, tôi cần đưa xe đi sửa chiều nay.
+Chào bà Wilson.\Chào bác sĩ.
+Bà cảm thấy thế nào?\Tôi không cảm thấy khỏe.
+Điều gì đang làm phiền bà?\Tôi bị đau bụng và nhức đầu.
+Đau ở đâu?\Đây.
+Bà có bị sốt không?\Không, tôi không nghĩ vậy.
+Được. Để tôi xem cổ họng của bà. Há miệng ra. Cổ họng của bà bị đỏ. Có đau không?\Vâng, nó đau.
+Khi nào nó bắt đầu bị đau?\Tuần trước.
+Tôi nghĩ bà bị nhiễm vi rút. Có thể là bệnh cúm. Tôi sẽ cho bà một đơn thuốc.\Cám ơn.
+Hãy gắng nghỉ ngơi, và phải uống nhiều nước và nước cam vắt.\
+Alô, khách sạn Marriott, tôi có thể giúp gì bạn?\Chào, tôi muốn đặt chỗ trước.
+Xin chờ một chút. Được, ngày nào?\25 tháng bảy.
+Bạn sẽ ở bao nhiêu đêm?\2 đêm. Giá phòng là bao nhiêu?
+75 đô một đêm cả thuế. Bạn có muốn tôi dành sẵn một phòng cho bạn không?\Vâng, làm ơn.
+Tên của bạn?\ Miss Anderson, how will you be paying?
+ Visa.\Làm ơn đọc số thẻ.
+ Expiration date?\ 1/9/2012
+ OK, You’re all set. We’ll see you on the 25th.\Bài học 63 – Tôi đổi ý.
+Kevin, bạn muốn làm gì?\Tôi không biết. Có lẽ xem ti vi.
+Đó là một ý kiến hay. Chúng ta sẽ đi mua sắm nên tôi nghĩ bạn nên nghỉ một lúc.\Tôi không nghĩ là tôi muốn đi nữa.
+Bạn muốn nói gì? Tôi nghĩ là bạn đã nói chúng ta sẽ đi mua sắm.\Tôi biết, nhưng tôi đổi ý rồi. Tôi mệt quá.
+Ờ, tôi còn phải mua nhiều thứ. Bạn nghĩ khi nào chúng ta sẽ đi?\Có thể tối nay.
+Được, tôi dùng điện thoại của bạn có phiền không?\Rất tiếc tôi không có tín hiệu.
+Bạn đùa sao? Tôi thường nhận được tín hiệu rất tốt ở đây mà.\Điện thoại của tôi rất cũ và nó hoạt động không tốt lắm.
+Nếu tôi mang nó ra ngoài thì sao?\Như vậy thì được. Nó hoạt động tốt ở bên ngoài.
+Andrew, bạn muốn chơi một trò chơi không?\Được, trò chơi loại gì?
+Chúng ta hãy chơi bài đi. Bạn biết chơi Blackjack không?\Có, đó là một trò chơi dễ. Tôi không muốn chơi trò đó ngay bây giờ.
+Được, bạn còn nhớ cách chơi xì phé không?\Tôi nghĩ vậy, nhưng bạn sẽ phải giải thích lại luật chơi chơi cho tôi.
+Được. Hãy xem tấm giấy này. Trên đó có tất cả luật chơi.\Được. Bây giờ tôi nhớ rồi. Tôi nghĩ lần trước chúng ta chơi trò này, bạn thắng và tôi thua.
+Ừ, thực là vui.\Được rồi, chúng ta hãy chơi, nhưng lần này tôi không muốn đánh cá tiền.
+Được, chúng ta sẽ không đánh cá. Chúng ta chỉ chơi cho vui thôi.\
+Angela, vào đi.\Chúc mừng sinh nhật!
+Cám ơn. Tôi không thể tin rằng bạn nhớ sinh nhật của tôi.\Ờ, tôi có lịch trong máy tính của tôi. Nó giúp tôi nhớ những việc như vậy. Bạn làm gì vậy?
+Tôi đang đọc một quyển sách người anh (chị, em) họ của tôi cho nhân dịp sinh nhật của tôi.\Để tôi xem. Ô, tôi có quyển sách này ở nhà. Tôi cũng muốn tặng bạn một món quà.
+Ồ, một cây ghi ta. Tôi đã có một cây rồi, nhưng tôi thích cây này hơn. Cám ơn.\Không có gì. Bạn có biết chơi ghi ta không?
+Có, tôi có biết chơi. Bố tôi dạy tôi khi tôi còn trẻ.\Bạn chơi bây giờ được không? Tôi muốn nghe nhạc.
+Được. Bạn biết bài này không?\Có, tôi đã nghe bài đó rồi. Tôi có thể hát bài đó khi tôi ở trung học.
+Đó là một bài hát cũ. Nó làm tôi cảm thấy già. Khi tôi ở đại học người ta thường chơi nó trên ra đi ô mọi lúc.\
+Xin chào.\Chào. Bạn còn phòng trống tối nay không?
+Còn. Giá là 55 đô.\Phòng có kết nối internet không?
+Chúng tôi có kết nối không dây. Nếu bạn có máy tính bạn có thể kết nối internet và trả thêm 5 đô.\Được, tôi muốn một phòng.
+Bạn muốn một phòng được hút thuốc hay không hút thuốc.\Không hút thuốc.
+Bạn sẽ trả như thế nào?\Visa. Thẻ đây.
+Bao nhiêu người?\Hai.
+Bạn muốn một giường lớn hay hai giường?\Một giường lớn.
+Bạn ở phòng 237. Nó ở trên tầng 2. Chìa khóa của bạn đây. Làm ơn ký tên ở đây.\Mấy giờ trả phòng?
+30 sáng.\
+Xin chào, tôi có thể giúp gì bạn?\Tôi muốn gửi gói quà này tới California.
+Bạn muốn gửi cấp tốc hay gửi thường?\Gửi cấp tốc thì bao nhiêu?
+20 đô.\Còn gửi thường?
+12 đô.\Tôi muốn nó tới nơi ngày mai.
+Làm ơn điền vào mẫu đơn này. Khi bạn điền xong, hãy trở lại cửa sổ này,\Được, tôi nghĩ tôi xong rồi, như thế này đúng không?
+Vâng, đúng rồi.\Tôi cũng muốn gửi lá thư này.
+Bạn có cần mua tem không?\Có.
+Một xấp tem giá 3 đô. Như vậy tất cả là 23 đô.\Ô, tôi để quên ví trong xe. Tôi sẽ trở lại ngay.
+Patrick, tại sao bạn không gọi điện thoại cho tôi tối hôm qua? Tôi lo lắng về bạn.\Xin lỗi, tôi bị ốm. Tôi đã đi ngủ sớm.
+Có gì bất ổn vậy?\Tôi bị ho và mắt tôi khô lắm.
+Bây giờ bạn khỏe hơn không?\Vâng, tôi cảm thấy khỏe hơn nhiều. Khỏe hơn hôm qua nhiều lắm.
+Bạn có bị dị ứng không?\Có. Lần trước tôi đi bác sĩ, ông ấy làm một số thử nghiệm và nói rằng tôi bị dị ứng. Vào mùa xuân bệnh nặng hơn.
+Sáng nay bạn dậy lúc mấy giờ?\30 sáng.
+Hôm nay bạn sẽ đi làm không?\Không. Tôi nghĩ tôi sẽ ở nhà và xem ti vi. Tôi có thể làm việc ở nhà hôm nay.
+Tốt. Hãy nghỉ ngơi và lát nữa tôi sẽ mang qua một ít thức ăn.\Cám ơn.
+Chào Rachel!\Chào Josh! Lâu quá rồi. Bây giờ bạn đang làm việc ở đâu?
+Tôi làm việc ở một công ty phần mềm ngoài phố. Tôi là một kỹ sư.\Thật là thú vị. Bạn viết loại phần mềm gì?
+Cơ sở dữ liệu cho những doanh nghiệp nhỏ.\Công ty của bạn có trang web không?
+Có.\Địa chỉ trang web đó là gì?
+ How can I get the software?\ You can download it from the website. It’s very popular and it’s free.
+ OK, I’ll do that. I have to go now. It was really nice seeing you again.\ It was nice seeing you too. Email me next week and we’ll get together for coffee.
+ My computer is broken so I can’t send email right now. Can I call you?\ Sure, my number is 233-288-2328.
+Bạn đang nghe gì vậy?\Tôi đang nghe ra đi ô.
+Tôi biết rồi. Ban nhạc nào đang chơi?\Đoán thử xem.
+Tôi nghĩ là ban the Beatles, đúng không?\Đúng rồi. Làm sao bạn biết?
+Ở nước tôi mọi người đều biết họ. Họ rất nổi tiếng.\Vậy hả?
+Dĩ nhiên. Bố mẹ tôi xem họ trong một buổi trình diễn cách đây lâu rồi.\Bạn có biết rằng họ từ nước Anh không?
+Vâng, dĩ nhiên.\Bạn thường nghe loại nhạc gì?
+Tôi nghe mọi thứ, nhưng loại nhạc tôi ưa thích là pop.\Tôi hiểu. Bạn thích ca sĩ nào?
+ I like her too. She’s got a great voice.\Bài học 71 – Đi tắc xi.
+Chào cô, cô cần tắc xi không?\Vâng.
+Cô có hành lý không?\Chỉ có 2 va li.
+Được, tôi sẽ để vào sau xe cho cô. Cô đi đâu?\Lữ Quán Comfort.
+Tôi nghĩ có 2 nơi như vậy ở Boston. Cô đi nơi nào?\Nơi ở ngoài phố.
+Đây là lần đầu tiên cô tới Boston hả?\Không, tôi đã tới đây vài lần rồi. Tôi thường tới đây để làm việc. Bạn có biết sẽ mất bao lâu không?
+Không lâu đâu. Có lẽ khoảng 15 phút.\Ôi, có vẻ kẹt xe quá.
+Vâng, có thể có tai nạn phía trước.\Thôi được, hãy ngừng xe ở ngã tư tới. Tôi sẽ xuống và đi xe điện ngầm.
+Bạn có đói không?\Không, tại sao?
+Chúng ta đã lái xe lâu rồi. Tôi nghĩ chúng ta nên tìm nơi nào để ăn đi.\Không, tôi không sao. Chúng ta bị muộn rồi vì vậy chúng ta không nên dừng lại.
+Chúng ta đã đi ngang cửa hàng đó 3 lần rồi. Tôi nghĩ chúng ta bị lạc đường. Chúng ta nên hỏi đường người nào đó đi.\Chúng ta không bị lạc đường đâu.
+Tôi chưa bao giờ đi đường này trước đây. Bạn có biết bạn đang đi đâu không?\Biết, đường này đi ngang qua thị trấn. Nhanh hơn là xa lộ.
+Được. Bạn lái chậm hơn một chút được không?\Được chứ, không thành vấn đề.
+Bạn có thấy tấm biển phía sau kia không? Tôi nghĩ đây là đường một chiều.\Không, tôi không thấy. Tôi sẽ phải quay trở lại.
+Bạn không thể quay xe ở đây. Tôi nghĩ bạn nên để tôi lái xe.\Tôi nghĩ bạn đúng rồi. Tôi bắt đầu mệt.
+Adam, bạn có thể giúp tôi một việc được không?\Dĩ nhiên.
+Tôi không thể tìm được ví của tôi. Bạn có thể giúp tôi không?\Không có vấn đề gì. Tôi sẽ giúp bạn tìm nó.
+Cám ơn.\Nó màu gì?
+Đen.\Bạn tìm trong bếp chưa?
+Rồi, tôi đã tìm trong đó rồi.\Tôi sẽ tìm trong phòng khách.
+Bạn có tìm thấy nó không?\Không, nó không có đó. Bạn thấy nó lần cuối cùng khi nào?
+Tôi có mang theo khi tôi tới thư viện sáng nay.\Bạn có nghĩ rằng bạn có thể đã để quên nó ở đó không?
+Có thể. Tôi sẽ gọi điện thoại cho thư viện và hỏi họ xem có ai thấy nó không?\Chờ đã. Phải nó đây không?
+Vâng, đúng nó. Đó là cái ví của tôi. Cám ơn đã giúp tôi tìm thấy nó.\
+Xin lỗi, bạn có thể chụp giúp chúng tôi tấm ảnh được không?\Được chứ. Cái máy ảnh này thực đẹp.
+Cám ơn, bố mẹ tôi cho tôi.\Bạn sử dụng nó như thế nào?
+Bạn nhấn vào cái nút ở đây.\Tới gần hơn một chút. Chờ đã, như vậy gần quá. Chuyển qua bên trái một chút. Lùi ra sau một chút. Được rồi, đứng ngay đó.
+Ý bạn là ngay đây hả?\Vâng, tốt rồi. Ô, tôi không chụp được.
+Bạn cần nhấn nút xuống khoảng 3 giây.\Được, tôi hiểu rồi, bạn sẵn sàng chưa?
+Vâng.\Hãy mỉm cười.
+Chào Tracy. Có chuyện gì vậy?\Chào Thomas. Tôi đứng xếp hàng để mua máy chơi dĩa DVD.
+Xếp hàng dài quá. Tại sao bạn không để ngày mai trở lại.\Tôi nghĩ bạn có lý. Họ sắp đóng cửa rồi.
+Chúng ta đi uống cà phê đi.\Được. Chờ một chút. Tôi phải lấy một vật ra khỏi ví. Bạn cầm cái này giúp tôi được không?
+Được chứ. Ôi.\Có điều gì vậy?
+Tôi đánh rơi cái máy tính bỏ túi của bạn. Nó có bị vỡ không?\Tôi không chắc. Để tôi xem. Không, tôi không nghĩ là nó bị vỡ. Cái nút bị rơi ra. Tôi có thể sửa được.
+Rất tiếc về việc này.\Đừng bận tâm. Tôi đánh rơi nó mãi. Nếu nó bị vỡ, tôi còn một cái khác ở trong xe.
+Hê, bạn tới đây bằng gì vậy?\Tôi đi xe đạp.
+Bạn nói nghiêm túc không đó? Tại sao bạn làm như vậy? Tôi có thể đón bạn.\Được mà. Tôi không thích làm phiền bạn. Tôi biết bạn không thích dậy sớm.
+Bạn thật đáng mến. Bạn có lạnh không?\Không, không lạnh lắm. Tôi có mặc áo choàng.
+Có gì trong túi vậy?\Một loại táo đặc biệt.
+Ô. Tôi ăn thử một trái được không? Nó rất ngọt.\Tôi thêm đường. Những trái táo này rất ngon. Chỉ có 30 xu một trái.
+Chúng không đắt hơn những trái trong siêu thị sao?\Vâng, chúng đắt hơn, nhưng chúng ăn ngon hơn.
+Bạn còn mua loại trái cây nào khác không?\Ờ, ngoài táo, tôi có mua cam và chuối.
+Alô?\Chào. Bạn còn thức không?
+Vâng.\Bạn nghe có vẻ mệt, mọi việc ổn chứ?
+Vâng, mọi việc đều ổn. Tôi chỉ chuẩn bị đi ngủ. Hôm nay là một ngày dài.\Bạn có thời gian lát nữa uống cà phê với tôi không? Tôi muốn nói với bạn một chuyện.
+Không, rất tiếc. Hôm nay không được. Ngày mai tôi phải dậy sớm.\Ô. Ngày mai bạn sẽ làm gì?
+Mẹ chồng tôi sẽ tới chơi vì vậy tôi phải dậy sớm và dọn dẹp nhà cửa.\Tôi hiểu.
+Ngày mai bạn rảnh không?\30 tôi sẽ rảnh.
+Bạn có muốn gặp nhau sau khi bạn xong việc không?\Bạn có nghĩ rằng bạn có thời gian không?
+Có, mẹ chồng tôi sẽ ra về khoảng 2 giờ chiều.\
+Hê, tôi vừa nói chuyện với Jim.\Anh ta nói gì?
+Anh ta nói anh ta phải hủy buổi họp chiều nay.\Ô, tôi hiểu.
+Có vấn đề à?\Không. Không có vấn đề gì lớn. Anh ta và tôi dự tính nói chuyện với vài khách hàng mới hôm nay.
+Rất tiếc nghe như vậy.\Được thôi. Điều này thường xảy ra dạo gần đây.
+Lạ nhỉ. Tôi tự hỏi tại sao?\Vợ anh ta bị bệnh, vì vậy thỉnh thoảng anh ta phải về nhà sớm để chăm sóc cô ta.
+Tôi hiểu. Việc làm thế nào?\Mọi việc bây giờ chậm lắm. Tôi có thể mượn điện thoại của bạn được không. Cái của tôi hết pin rồi và tôi phải gọi điện thoại cho sếp để nói với ông ta về việc này.
+Được, để tôi đi lấy. Nó ở trong xe.\
+Alô?\Chào John, xin lỗi gọi quá trễ. Hy vọng tôi không đánh thức bạn dậy.
+Thực ra tôi vừa mới làm xong việc. Tôi chưa đi ngủ.\Bạn có nghe Bill bị sa thải hôm qua không?Did you hear Bill got fired yesterday?
+Có. Sarah nói với tôi chiều nay. Cô ta khá buồn bực về chuyện đó.\Tệ quá. Bill là một anh chàng rất dễ thương.
+Vâng, tôi biết.\Tại sao họ sa thải anh ta?
+Cô ta không nói.\Tôi hiểu. Ờ, nếu bạn lại nói chuyện với Sarah, nói với cô ta là có một chỗ trống trong công ty của tôi. Bill có thể đi phỏng vấn tuần này nếu anh ta muốn.
+Ô, cám ơn rất nhiều. Tôi sẽ gọi cô ta và nói với cô ta.\
+Chào Jim.\Chào Karen. Trông bạn có vẻ buồn bực, có chuyện gì vậy?
+Không có gì. Tôi chỉ hơi lo lắng một chút.\Mọi việc ổn chứ?
+Ờ, tôi sẽ đi phẫu thuật ngón tay ngày mai.\Ngón tay bạn có gì không ổn?
+Tôi bị gãy ngón tay hôm trước trong khi chơi bóng rổ.\Ôi, thực là khủng khiếp.
+Vâng, tôi rất buồn phiền kể từ hôm đó.\Bạn sợ phẫu thuật không?
+Có. Tôi chưa bao giờ trải qua phẫu thuật trước đây.\Tôi thì không lo đâu. Tôi đã bị phẫu thuật chân năm ngoái. Mọi việc diễn ra tốt đẹp.
+Bạn có lo lắng trước khi phẫu thuật không?\Một chút. Bác sĩ của bạn là ai?
+Bác sĩ Allen.\Ô, tôi nghe ông ta giỏi lắm. Tôi không nghĩ là bạn có gì phải lo lắng.
+Tốt lắm. Như vậy làm tôi cảm thấy yên tâm hơn.\
+Betty, bạn và John vẫn còn hẹn hò chứ?\Vâng, mọi việc tiến triển khá tốt.
+Bạn gặp anh ấy ở đâu?\Tôi gặp anh ấy trong thư viện cách đây vài tuần. Chúng tôi ngồi cùng một bàn và anh ấy hỏi mượn tôi cây viết.
+Ồ, câu chuyện thực dễ thương.\Tôi nói với Jim về chuyện đó hôm trước. Anh ta nghĩ câu chuyện khá lãng mạn.
+Hai bạn có kế hoạch cho tối nay không?\Có, tôi nghĩ chúng tôi sẽ thuê một bộ phim. Gần đây bạn có xem bộ phim nào hay không?
+Tôi xem Người Nhện hôm trước.\Tôi nghe nói đó là một bộ phim rất hài hước.
+Bạn đùa sao? Bộ phim đó không có hài hước. Đó là một phim buồn. Cuối phim tôi đã khóc.\Bạn thực nhạy cảm, đúng không?
+Tôi đoán vậy. Có lẽ vì vậy tôi không tìm được bạn gái.\
+Chào Peter, tôi có thể nói chuyện với bạn một lúc được không? Tôi vừa nghe nói xưởng làm bánh qui dưới phố sập tiệm.\Bạn nghe điều đó ở đâu?
+Sara nói với tôi.\Tôi không chắc điều đó đúng. Tôi không nghe gì về việc đó.
+Cô ta nói họ bắt đầu cho người ta nghỉ việc.\Bố của bạn không làm việc ở đó sao?
+Có, tôi thực sự lo lắng ông có thể bị nghỉ việc, ông chỉ mới bắt đầu làm việc ở đó cách đây khoảng 3 tháng. Bạn nghĩ tôi nên làm gì?\Tôi thì tôi sẽ nói chuyện với bố của bạn.
+Vâng, nhưng nếu có gì không ổn tôi không nghĩ là ông sẽ nói với tôi. Ông không muốn làm tôi buồn bực, nhưng tôi thực sự muốn biết chuyện gì đang xảy ra.\Vậy bạn sẽ làm gì?
+Bạn không phải là bạn thân với chủ tịch của công ty đó sao?\Có, chúng tôi từng làm việc chung với nhau tại một công ty khác cách đây khoảng 5 năm.
+Có lẽ bạn có thể gọi điện cho ông ta hỏi xem thử việc gì đang diễn ra.\Ờ, tôi không biết. Tôi đoán có thể. Bây giờ khá trễ rồi, tôi sẽ gọi cho ông ta vào buổi sáng.
+Được, cám ơn rất nhiều.\
+Ôi, tôi đang mập lên.\Bạn trông không mập đâu.
+Có đấy. Tôi tăng 10 pounds trong 2 tháng qua. Nhìn bụng tôi này.\Bạn cân nặng bao nhiêu?
+Tôi nghĩ khoảng 170 pounds.\Bạn ăn loại thức ăn gì?
+Tôi thường ăn mì ống vào bữa tối. Thỉnh thoảng tôi mua thức ăn mang về hay thức ăn nhanh nếu tôi không có đủ thời gian để nấu ăn.\Tôi có đọc một quyển sách về ăn kiêng hôm trước. Nó nói là nếu bạn chỉ ăn thịt và không ăn gì khác, bạn sẽ xuống ký nhanh chóng.
+Ôi, như vậy có hiệu quả không?\Tôi không biết, nhưng có người nói với tôi rằng họ đã thử và xuống 20 pounds.
+Nghe được đấy, nhưng tôi không biết tôi có thể theo được bao lâu.\Tôi biết, một khi bạn lại bắt đầu ăn rau và bánh mì có thể bạn sẽ tăng ký.
+Ờ, tôi nghĩ dù sao tôi cũng thử xem. Tác giả là ai?\Tôi không nhớ. Nó không còn phổ biến nữa. Khi tôi về nhà, tôi sẽ xem lại và gọi điện cho bạn.
+Alô?\Chào Sarah, James đây.
+Hê James, tôi không thể nói chuyện bây giờ. Tôi có thể gọi lại cho bạn sau được không?\Được chứ. Có chuyện rắc rối hả?
+Tôi đi làm trễ và xe tôi không chạy, nên tôi cần tìm ai đó đưa tôi đi làm.\Tôi có thể đưa bạn đi.
+Ô, thực hả? Cám ơn. May cho tôi quá.\Bạn có cần tôi đón về sau khi xong việc không?
+Vâng, nếu không phiền bạn quá.\Không có vấn đề gì. Tôi sẽ rời nhà bây giờ. Tôi sẽ tới đó ngay.
+Được. Tôi sẽ chờ bạn trước chung cư của tôi.\Bạn có biết là xe bạn bị trục trặc gì không?
+Tôi không biết chắc. Tôi nghĩ là máy có vấn đề gì đó.\Được rồi, tôi sẽ xem khi tôi tới đó. Tôi biết nhiều về xe. Khi tôi còn trẻ bố tôi và tôi thường sửa xe cũ.
+Hê, hôm nay bạn làm gì vậy?\Không làm gì, chỉ xem ti vi. Tôi chán quá. Tôi chằng có gì để làm.
+Tôi cũng chẳng có gì để làm. Hôm nay tôi không làm gì ngoài lau chùi nhà cửa.\Tôi biết. Tôi dự tính đi ra khu mua sắm với một trong những người bạn, nhưng trời mưa tuyết nặng nên chúng tôi không thể đi đâu.
+Tôi hy vọng trời mưa tuyết cả đêm vì tôi không muốn tới trường ngày mai.\Bạn có quen ai có máy chụp ảnh không? Tôi muốn chụp cảnh tuyết này.
+Không, tôi không quen ai có máy chụp ảnh cả.\Bạn đã gặp Sara hôm nay không? Tôi nghĩ cô ta có máy ảnh.
+Không, hôm nay cô ta không có đây. Cô ta nói cô ta có việc quan trọng phải làm.\Ô, cô ta đi đâu?
+Không ai biết. Tôi có gọi cho người bạn cùng phòng của cô ta nhưng cô ấy cũng không biết.\
+Mandy, bạn có biết là Heather đã gọi điện cho bạn không?\Không. Cô ta gọi khi nào?
+Cách đây 2 tiếng, tôi nghĩ vậy.\Cách đây 2 tiếng? Tại sao bạn không nói cho tôi biết sớm hơn?
+Xin lỗi, tôi quên.\Cô ta nói gì?
+Cô ta nói là cô ta chờ bạn tại nhà chị (em gái) cô ta.\Thôi được, tôi tính nấu bữa tối trước, nhưng tôi nghĩ tôi không còn đủ thời gian. Tôi sẽ hâm nóng mấy món thức ăn thừa trong lò vi ba.
+Được.\Nếu cô ta gọi lại nói với cô ta là tôi sẽ tới trễ.
+Được, không có vấn đề gì.\Việc này rất quan trọng. Đừng quên.
+Đừng lo. Tôi sẽ không quên đâu.\Thực ra, bạn đưa giùm tôi cái điện thoại được không? Tôi nghĩ tôi nên gọi điện thoại cho cô ta bây giờ. Có thể cô ta thắc mắc tôi đang ở đâu.
+Được, tôi sẽ đi lấy nó cho bạn.\
+Tôi sẽ đi mua sắm. Bạn muốn đi không?\Tôi nghĩ là bạn đã đi mua sắm hôm qua.
+Tôi đã đi, nhưng một người bạn cũ gọi điện cho tôi tối qua và mời tôi dự tiệc sinh nhật. Tôi cần mua cho anh ta một món quà.\Tôi hiểu. Bạn sẽ mua cho anh ta món gì?
+Tôi thực sự không biết anh ta thích gì. Tôi đã không gặp anh ta lâu rồi. Bạn nghĩ sao?\Có lẽ bánh ngọt vậy?
+Ờ, đó là một ý kiến hay, nhưng tôi nghĩ có lẽ tôi nên mua cho anh ta một thứ gì khác, chằng hạn một thứ gì anh ta có thể mặc.\Một cái áo len thì sao? Tôi thấy một cái rất đẹp trong khu mua sắm một hôm nọ. Chúng ta có thể đến đó xem thử.How about a sweater?
+Được, nó ở trong cửa hàng nào?\Trong Macy’s. Tôi nghĩ họ bán giảm giá cuối tuần này.
+Được, đó là một cửa hàng rất đẹp. Tôi thích quần áo ở đó.\
+Hê, Diane, bạn làm gì ở đây?\Chào Tim, bạn khỏe không? Tôi đang chờ một người bạn.
+Tôi nghe nói là bạn sẽ tốt nghiệp mùa hè này. Đúng không?\Vâng, nếu mọi việc tốt đẹp, tôi sẽ lấy bằng cử nhân vào tháng tám. Rồi tôi cần đi tìm việc làm.
+Tôi đã phải làm việc đó năm ngoái. Thực không dễ. Bạn có nhận được đề nghị việc làm nào chưa?\Chưa. Tôi đã gửi đi nhiều bản sơ yếu lý lịch, nhưng tôi không nhận được nhiều lời đáp lại. Ngay bây giờ khá khó tìm việc làm.
+Bạn chuyên ngành gì?\Tâm lý.
+Đó là chuyên ngành của tôi khi tôi bắt đầu đi học đại học, nhưng tôi chuyển qua ngành kỹ sư sau năm đầu tiên.\Tôi nghĩ là kỹ sư dễ tìm việc làm hơn.
+Tôi không chắc về điều đó. Tôi mất 3 tháng để tìm được một việc làm. Cuối cùng tôi đã tìm được việc sau khi tôi đưa sơ yếu lý lịch lên một trong những trang web tìm việc đó.\Dù sao, chằng thành vấn đề. Nếu tôi không thể tìm được việc làm có thể tôi sẽ trở lại trường để lấy bằng thạc sĩ.
+Alô?\Hê Gary. Có chuyện gì vậy?
+Đã lâu rồi tôi không nói chuyện với bạn, có chuyện gì không?\Ờ, tôi không biết là bạn có nghe nói chưa, tôi vừa chuyển tới một căn hộ mới ở LA.
+Chưa, tôi có nghe là bạn tính chuyển đi nhưng tôi không biết là bạn đã tìm được một nơi rồi. Thực là tuyệt.\Vâng, tôi rất vui về việc này.
+Bạn có bạn cùng phòng chưa?\Chưa, lần này thì chưa. Thực là một sự thay đổi lớn đối với tôi vì tôi chưa bao giờ ở một mình.
+Bạn không nghĩ là bạn sẽ cô đơn sao?\Không đâu, tôi có hai người bạn sống trong cùng chung cư. Tối hôm qua chúng tôi ăn tối cùng với nhau.
+Họ cũng là sinh viên hả?\Không, họ không phải là sinh viên, nhưng có nhiều sinh viên sống trong chung cư này.
+Nghe có vẻ là một nơi tốt đấy.\Vâng, tôi nghĩ đây là một môi trường tốt để học tiếng Anh.
+Ờ, tôi rất vui khi nghe là mọi việc diễn ra tốt đẹp.\Bạn hãy tới đây thăm tôi một dịp nào đó. Có cả hồ bơi nữa.
+Tốt lắm. Tôi sẽ nghĩ về việc đó.\
+Justin, bạn có bạn gái chưa?\Chưa.
+Còn về Jenny thì sao?\Cô ta có bạn trai rồi.
+Ô, tôi nghĩ là họ chia tay rồi mà.\Không, họ vẫn đi với nhau.
+Còn về cô gái ở sở làm mà bạn kể cho tôi nghe hồi năm ngoái?\Ai, Emily hả? Cô ta có gia đình rồi. Cô ta lập gia đình tháng trước.
+Tôi hiểu. Có vẻ như là mọi người cùng lứa tuổi chúng ta đều có gia đình.\Vâng, thực không dễ.
+Bạn có quan tâm tới ai không?\Có một cô gái tôi thích sống trong cùng tòa nhà. Tôi hay nói chuyện với cô ta vì cô ta cũng đang học tiếng Anh.
+Cô ta thế nào?\Cô ta dễ thương lắm. Cô ta từ Texas chuyển về đây khoảng 3 tháng trước.
+Cô ta làm nghề gì?\Cô ta là kế toán viên.
+Đó là một việc làm tốt. Cô ta chắc chắn phải thông minh. Bạn đã mời cô ta đi chơi chưa?\Thực ra thì chúng tôi sẽ đi ăn tối vào thứ sáu.
+Chúc may mắn.\
+Chào Jason, xin lỗi làm phiền bạn. Tôi có một câu hỏi phải hỏi bạn.\Được, có chuyện gì vậy?
+Tôi gặp vấn đề với cái máy tính của tôi. Tôi biết bạn là kỹ sư vì vậy tôi nghĩ bạn có thể giúp tôi.\Tôi hiểu. Vấn đề gì nào?
+Tôi có một tập tin nhưng vì lý do gì đó tôi không thể mở được.\Loại tập tin gì?
+Một tập tin Word tôi đang soạn. Tôi cần phải hoàn tất vào ngày mai.\Trước đây bạn có mở nó được không, trên cái máy tính mà bạn đang sử dụng?
+Có, tôi soạn tập tin tối hôm qua và mọi việc đều tốt đẹp, nhưng sáng nay tôi không mở nó được.\Bạn có nghĩ rằng máy bạn bị vi rút không?
+Không, tôi đã kiểm tra và máy không có vi rút.\Thôi được, tôi không biết chắc có gì trục trặc. Nếu có thể, gửi tập tin cho tôi qua email, tôi sẽ xem thử có thể mở nó được không.
+Được, tôi sẽ gửi khi về tới nhà. Bạn sẽ về nhà tối nay chứ?\Có, tôi sẽ ở nhà sau 8 giờ tối. Gửi nó cho tôi khi có thể và tôi sẽ gọi điện cho bạn sau.
+Chào George, bạn biết làm sao để ra phố không?\Biết chứ. Tại sao bạn ra phố?
+Tôi muốn mua một cái máy tính mới.\Được, bạn sẽ lái xe hả?
+Vâng.\Đi thẳng xuống con đường này. Khi bạn tới đèn giao thông thứ hai, rẽ trái. Rồi lên xa lộ và ra bằng lối ra 52.
+Nghe phức tạp quá. Bạn có thể nói lại được không? Tôi đi theo đường nào trước tiên?\Bạn đi xuống con đường này, rồi rẽ trái tại đèn giao thông thứ hai. Đường tên là đường Main.
+Được rồi, tôi nghĩ là rõ rồi.\Dù sao tại sao bạn mua máy tính mới? Bạn đã không mua một cái cách đây mấy tháng sao?
+Có, nhưng nó hỏng rồi.\Bạn đã mua nó ở đâu?
+Ở Wal-Mart.\Tôi nghĩ là máy tính của bạn vẫn còn bảo hành. Bạn có thể mang nó trở lại cửa hàng và họ sẽ sửa nó miễn phí.
+Tôi nghĩ bạn nói đúng. Tôi đã không nghĩ tới điều đó. Tôi nên đi nói chuyện với họ về việc này. Cửa hàng Wal-Mart gần nhất ở đâu?\Cách đây khoảng 2 dãy phố. Dù sao bây giờ tôi cũng phải tới đó để mua mấy món đồ. Bạn muốn đi theo tôi không?It’s about 2 blocks from here.
+Chắc chắn.\
+John, bạn có xem tin tức tối nay không?\Không, có chuyện gì xảy ra?
+Có một trận động đất lớn ở San Diego.\Ôi, trời đất.
+Tổng thống đã xuất hiện trên chương trình tin tức để nói chuyện.\Có ai bị thương không?
+Tôi nghĩ họ nói có hai người bị chết.\Ôi, thực khủng khiếp.
+Vâng, tôi không thể tin là bạn đã không nghe về chuyện này. Họ nói về nó trên kênh CNN suốt ngày.\Ôi, tôi không xem tivi thường xuyên.
+Bạn không xem tin tức hả?\Không, tôi thường đọc tin tức trên mạng, nhưng hôm nay tôi không có thời gian bật máy tính.
+Môn thể thao ưa thích của bạn là gì?\Tôi thích bóng rổ. Tôi thường xem những trận đấu trên tivi.
+Bạn thích đội bóng nào?\Đội Boston Celtics.
+Năm nay họ chơi rất khá, phải không?\Vâng. Bạn thích họ không?
+Vâng. Mọi người quanh đây đều thích họ.\Bạn có nghĩ năm nay họ sẽ vô địch không?
+Có thể. Họ có vài cầu thủ rất giỏi.\Bạn có xem trận bóng tối qua không?
+Một lúc, nhưng không toàn bộ. Tôi xem hiệp thứ nhì và một vài pha nổi bật trên mạng.\Đó là một trận đấu hay, phải không?
+Vâng. Bạn có biết họ sẽ đấu với ai tối mai không?\Tôi nghĩ họ sẽ đấu với LA.
+Đó sẽ là một trận gay go. LA có một đội bóng tốt.\
+Bạn đang làm việc với trang web của bạn hả?\Không, tôi vẫn đợi bạn gửi cho tôi tập tin hình ảnh dành cho trang nhà.
+Ý bạn nói là bạn chưa nhận được à? Tôi đã gửi nó cho bạn cách đây hơn một giờ.\Để tôi xem. Sẽ mất một lúc vì tôi phải bật máy tính.
+Được rồi. Bạn nhận được chưa?\Chờ một chút. Tôi vừa mở trình duyệt web và kiểm tra tài khoản hotmail của tôi.
+Được.\Được rồi, nó đây. Tôi đã nhận được nó.
+Làm sao tôi tìm được trang web đó? Tôi đã gắng tìm nó trên Yahoo nhưng tôi không tìm được.\Đừng dùng Yahoo, hãy dùng Google.
+Tôi cũng đã thử nhưng không tìm được.\Nếu bạn vào Google và tìm tên tôi, bạn chắc sẽ tìm được.
+Được, để tôi thử. Bây giờ tôi thấy nó rồi.\
+Hê, Michael, tôi mệt rồi. Bạn lái xe một lúc được không?\Rất tiếc, tôi muốn lắm, nhưng tôi không biết lái xe.
+Thực sao? Bạn không có bằng lái xe à? Tôi nghĩ ai cũng có bằng lái.\Ko, tôi sống ở thành phố suốt đời và khi tôi ở nhà tôi thường đi xe điện ngầm hoặc xe buýt.
+Tôi hiểu. Bạn có nghĩ là bạn sẽ học lái xe trong tương lai không?\Vâng. Tôi dự tính mua một chiếc xe năm tới. Tôi nghĩ ai cũng cần một chiếc ở Mỹ.
+Thực ra, bây giờ tôi chợt nghĩ tới, nhiều người ở thành phố ở đây cũng đi xe buýt.\Ờ, tôi muốn đi du lịch nhiều hơn. Tôi đã ở đây vài tháng rồi và tôi cảm thấy giống như là tôi chưa xem gì hết.
+Bạn sẽ học lái xe như thế nào? Bạn muốn tôi dạy bạn không?\Không, tôi không muốn làm phiền bạn. Tôi đã ghi danh ở một lớp học gần nhà tôi. Nó sẽ bắt đầu tháng tới.
+Thomas, tiếng Anh của bạn rất khá. Bạn đã học như thế nào?\Ờ, ở nước tôi mọi người phải học tiếng Anh bắt đầu từ cấp một. Tôi đã học những khóa tiếng Anh được 12 năm rồi.
+Ồ, thực thú vị. Tôi nhớ trong chuyến đi năm ngoái đến thăm gia đình bạn, dường như không có nhiều người có thể nói với tôi bằng tiếng Anh.\Ô, đó là bởi vì họ kg nói T.A nhiều.
+Nhưng họ nói tiếng Anh trong trường, đúng không? Có thể do họ không thích tôi nên họ không muốn nói chuyện với tôi.\Không, thực ra thì họ thích bạn lắm. Họ nói với tôi họ nghĩ là bạn rất dễ mến. Họ chỉ nhút nhát thôi. Họ không quen nói chuyện với người nước ngoài. Tôi nhớ khi tôi vừa tới Mỹ, tôi rất căng thẳng khi nói chuyện với người khác.
+Tôi hiểu. Tôi nghĩ là có nhiều người Mỹ dạy tiếng Anh ở nước bạn.\Vâng, đúng vậy. Có lẽ bây giờ có gấp đôi số người đã có cách đây năm năm, nhưng họ phần lớn ở thành phố. Gia đình tôi sống ở nông thôn.
+Tôi tự hỏi tại sao? Cá nhân tôi thì thích nông thôn hơn thành thị. Thực yên tĩnh và thanh bình. Nếu tôi đi dạy học, tôi sẽ muốn dạy ở nông thôn.\Bạn nghĩ rằng một ngày nào đó bạn muốn đi dạy học sao? Tôi biết là những trường học quanh thị xã của tôi đang tìm giáo viên, vì vậy nếu bạn muốn tôi có thể gọi cho họ để biết thêm thông tin.Do you think you would want to teach someday?
+Không, tôi không nghĩ vậy. Tôi sẽ cần ở đó một năm và tôi không nghĩ rằng tôi có thể nghỉ làm việc lâu như vậy.\Ờ, nếu bạn thay đổi ý định, hãy cho tôi biết. Tôi nghĩ bạn sẽ là một giáo viên rất tuyệt.
+Dorothy, kế hoạch của bạn cho lễ Giáng Sinh là gì?\Ồ vâng, gần lễ Giáng Sinh rồi, phải không? Tôi không chắc tôi sẽ làm gì khi đó.
+Ờ, nếu bạn không có kế hoạch gì, gia đình bạn có thể ăn tối ở nhà tôi.\Bạn rất tử tế, cám ơn. Bạn đã mua sắm xong chưa?
+Chưa, tôi còn phải làm việc đó. Tôi nghĩ tôi sẽ đi khu mua sắm cuối tuần này.\Tại khu mua sắm sẽ đông người lắm. Bạn nên mua sắm trên mạng.
+Bạn nói đúng. Gia đình tôi thích đọc sách, vì vậy có lẽ tôi có thể mua quà cho tất cả trên Amazon.com.\Bạn nghĩ là bạn sẽ mua gì cho vợ bạn?
+Có lẽ một quyển tiểu thuyết lãng mạn. Dường như cô ấy lúc nào cũng đang đọc một quyển như vậy.\Bạn không nghĩ là bạn nên mua cho cô ấy một món gì đắt hơn một chút hay sao, chằng hạn nữ trang hoặc có lẽ một cái máy tính mới.
+Có lẽ bạn nói đúng. Mua quà thực là khó. Tôi nghĩ vợ tôi có mọi thứ cô ấy muốn. Có lẽ tôi nên hỏi cô ấy vậy.\
+Martin, bạn sẽ bầu cho ai?\Ý bạn nói bầu tổng thống hả?
+Vâng.\Tôi chưa biết chắc.
+Bạn nên quyết định sớm. Cuộc bầu cử sẽ vào tháng tới.\Vâng, tôi biết. Tôi nghe về chuyện đó mỗi ngày trong chương trình tin tức.
+Tôi sẽ bầu cho Obama.\Tôi nghĩ ông ấy là một sự lựa chọn tốt, nhưng tôi nghĩ McCain cũng có thể là một tổng thống giỏi.
+Tôi biết. Cả hai đều tốt. Thực khó quyết định. McCain lớn tuổi hơn nhưng ông ấy có nhiều kinh nghiệm hơn. Obama dường như có nhiều ý tưởng hay, nhưng một số người nói ông ấy muốn tăng thuế.\Tôi nghe nói ông ta muốn giảm thuế. Thực khó biết đâu là sự thực. Đó là lý do tôi thực sự không chú ý tới chính trị.
+Vâng, nó có thể làm nản lòng, nhưng nó quan trọng và theo dõi nó rất thú vị.\
+Hey John, tôi có thể nói chuyện với bạn một chút được không?\Được chứ, có chuyện gì vậy?
+Tôi muốn nói cho bạn biết về một câu lạc bộ sách tôi gia nhập cách đây mấy tháng. Tôi biết bạn đọc nhiều vì vậy tôi nghĩ có thể bạn muốn đến cùng với tôi tháng tới.\Ồ, nghe có vẻ vui đấy. Khi nào nhóm họp mặt?
+30 tối. Như vậy có trễ quá đối với bạn không?\Không, tôi nghĩ như vậy tốt rồi. Các bạn nói về chuyện gì trong nhóm?
+Ờ, mỗi tháng chúng tôi chọn một quyển sách mới và rồi trong kỳ họp mặt tiếp theo chúng tôi thảo luận về nó.\Các bạn đang đọc quyển sách nào?
+Người Thả Diều.\Tôi nghe nói đó là một quyển sách hay. Nó viết về cái gì?
+Nó là một quyển sách hay. Tôi đọc gần xong rồi. Quyển sách viết về một cậu bé lớn lên ở Afghanistanvào thập niên 1980. Nó được gọi là Người Thả Diều vì nhân vật chính tham dự vào một cuộc thi thả diều.\Nghe có vẻ thú vị đấy. Tôi muốn tới.
