@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vi_bot2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vi_bot2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vi_bot2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="763" column="5" lean-forward="true" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
+              <caret line="763" column="5" lean-forward="false" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result-vi2" pinned="false" current-in-tab="false">
+      <file leaf-file-name="result-vi2" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/result-vi2">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1423">
@@ -171,6 +171,11 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="pytorch" type="cbb8eebc:String" user="pytorch" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="pytorch" type="cbb8eebc:String" user="pytorch" />
+              <item name="data" type="cbb8eebc:String" user="data" />
             </path>
           </expand>
           <select />
@@ -540,13 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41525">
-          <caret line="1661" column="0" lean-forward="false" selection-start-line="1661" selection-start-column="0" selection-end-line="1661" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/torch/nn/modules/module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -810,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/100eng-vie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1350">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/100eng-vi.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108073">
@@ -871,19 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result-vi2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1423">
-          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/viatt.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vi_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11851">
@@ -895,13 +873,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plt_losses.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vi_bot2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="763" column="5" lean-forward="true" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
+          <caret line="763" column="5" lean-forward="false" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viatt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/100eng-vie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4275">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result-vi2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1423">
+          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

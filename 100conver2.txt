@@ -753,3 +753,239 @@ Bạn dọn dẹp phòng khi nào?\Tôi dọn phòng vào tuần trước
 Anh ấy rửa xe khi nào?\Anh ấy rửa xe ngày hôm qua.
 Cô ấy đánh máy bản báo cáo khi nào?\ Cô ấy đánh máy nó đêm qua
 Bạn tốt nghiệp khi nào?\Chúng tôi tốt nghiệp thứ Sáu tuần trước
+Bạn làm gì vào tối qua\Tớ chơi bóng đá với các bạn tớ
+Có vui không?\Vui lắm
+Còn bạn làm gì?\Tớ nấu bữa tối cho gia đình
+Cậu nấu gì thế?\Tớ làm mỳ Ý và súp
+Tôi chạy về nhà\Tôi bơi ở nhà
+Anh ta ngủ ở khách sạn\Cô ấy uống ở quán rượu
+Chúng tôi ăn ở nhà hàng\Bạn mua đồ ăn ở cửa hàng
+Bạn đã đi bơi ở công viên phải không?\Không, tôi bơi ở nhà
+Anh ta ngủ ở khách sạn phải không?\Đúng vậy
+Cô ấy uống ở nhà hàng phải không?\Không, cô ấy uống ở quán rượu
+Bạn đã ăn ở nhà hàng có phải không?\Đúng vậy
+Bạn đã mua thức ăn ở chợ phải không?\Không, chúng tôi mua đồ ăn ở cửa hàng
+Họ đã hát ở nhà thờ phải không?\Đúng vậy
+Anh ta lái xe về nhà phải không?\Không, anh ta đi bộ
+Bạn ăn sáng chưa?\Tôi đã ăn rồi
+Hôm qua bạn bơi ở đâu?\Tôi bơi ở công viên
+Anh đã ngủ ở đâu?\Anh ta ngủ ở khách sạn.
+Cô ấy uống ở đâu?\Cô ấy uống ở quán rượu
+Bạn ăn ở đâu?\Chúng tôi ăn ở nhà hàng
+Bạn mua đồ ăn ở đâu?\Chúng tôi mua ở cửa hàng
+Họ hát ở đâu?\Họ hát ở nhà thờ
+Bạn đã đi đâu sáng nay?\Tôi đi chợ
+Bạn mua xe khi nào vậy?\Tôi mua nó ngày hôm qua
+Bạn bán xe khi nào\Tôi bán nó tuần trước
+Họ về nhà khi nào?\Họ về tuần trước
+Anh ấy ăn lúc nào?\Anh ấy ăn lúc 1h
+Bạn đi chợ mua gì vậy?\Tôi mua một ít thịt gà và rau
+Họ làm gì ngày hôm qua?\Họ ra biển
+Cô ấy đã học gì?\Cô ấy học môn sinh học
+Anh ta đã nói gì?\Anh ta nói “không”
+ Hôm nay cậu đã làm gì hả John?\Tớ đến thư viện đọc sách
+Cậu đọc gì vậy?\Tớ đọc sách về khủng long?
+Thế cậu có ăn trưa không?\Có chứ
+Cậu đã ăn gì?\Tớ ăn pizza
+Có ngon không?\Có
+Bạn sẽ làm gì vào tuần tới?\Tôi đi học
+Bạn sẽ làm gì vào tháng tới\Chúng tôi đi Paris
+Bạn sẽ làm gì vào thứ Hai tới?\Tôi sẽ đi New York
+Họ sẽ làm gì thứ 7 này?\Họ sẽ đi ăn ở nhà hàng
+Tối nay anh ấy sẽ làm gì?\Anh ta sẽ tới cửa hàng
+Ngày mai cô ấy sẽ làm gì?\Cô ấy sẽ đi làm
+John sẽ làm gì tối nay?\Anh ấy đến công viên
+Mary sẽ làm gì sáng nay?\Cô ấy đi chợ
+Khi nào bạn sẽ đi bơi?\Mình sẽ đi bơi vào chiều nay
+Khi nào bạn sẽ đi?\Chúng tôi sẽ đi vào tối nay
+Khi nào họ sẽ đi làm?\Họ sẽ đi làm vào tối thứ Ba
+Khi nào anh ấy sẽ chơi tennis?\Anh ấy sẽ chơi tennis vào tối nay
+Khi nào cô ấy sẽ hát?\Cô ấy sẽ hát vào thứ Bảy 
+Khi nào John về nhà?\John sẽ về nhà vào tháng tới
+Khi nào thì Mary đến?\Mary sẽ đến vào năm sau.
+Bạn sẽ đi ăn chứ?\Có chứ
+Anh ấy sẽ đi bơi chứ?\Không, anh ấy sẽ không đi
+Cô ấy sẽ về nhà chứ?\Đúng vậy
+John sẽ hát chứ?\Không, anh ấy sẽ không hát
+Mary sẽ chơi tennis chứ?\Có , cô ấy sẽ
+Bạn sẽ đi làm chứ?\Không, chúng tôi không đi
+Bạn thích đi học không?\Tôi có
+Bạn học ngành gi?\Tôi học thương mại
+Bạn có thích kinh doanh không?\Dĩ nhiên là có
+Bạn thích điều gì trong kinh doanh?\Tôi thích tiền
+Và bạn cũng thích bài tập về nhà chứ?\Không
+Bạn sống ở đâu?\Tôi sống ở Los Angeles
+Các bạn sống ở đâu?\Chúng tôi sống ở First Street
+Họ sống ở đâu?\Họ sống ở đại lộ Pine
+Anh ta sống ở đâu?\Anh ta sống ở Tokyo
+Cô ấy sống ở đâu?\Cô ấy sống ở nước Anh
+Bạn sống ở Los Angeles phải không?\Đúng vậy
+Bạn sống ở Main Street phải không?\Không phải
+Họ sống ở đại lộ Pine phải không?\Đúng vậy
+Cô ấy sống ở Úc phải không?\Không phải
+Anh ấy sống ở Tokyo phải không?\Đúng vậy
+Xin chào, bạn sống ở đâu?\Mình sống ở London
+Bạn sống ở đâu?\Mình sống ở Birmingham
+Bạn có thích ở đó không?\Uhm, cũng ổn
+Bạn có thích London không?\Có, nhưng tôi không thích thời tiết ở đây
+Bố mẹ bạn sống ở đâu?\Họ sống ở Oxford
+Ồ, mình cũng từng sống ở Oxford.\Mình rất thích ở đó
+Mình cũng đã từng ở đó\Ở đó rất đẹp
+Bạn từ đâu đến?\Tôi đến từ New York
+Bạn đến từ Pháp\Anh ấy đến từ Ý
+Cô ấy đến từ nước Anh\Chúng tôi đến từ Ấn Độ
+Bạn từ đâu đến? \ Tôi đến từ New York
+Anh ấy đến từ đâu?\Anh ấy đến từ Ý
+Họ từ đâu đến?\Họ đến từ Nhật
+Helen từ đâu tới?\Cô ấy đến từ Anh
+Bạn từ nước Anh tới phải không?\Không, tôi đến từ Tây Ban Nha
+Cô ấy đến từ Mỹ phải không?\Đúng vậy
+Họ từ Trung Quốc đến phải không?\Không, họ đến từ Nhật Bản
+Các bạn đến từ Ấn Độ có phải không?\Đúng, chúng tôi đến từ Ấn Độ.
+Xin chào\Xin chào
+Hôm nay bạn khỏe không?\Tôi khỏe, cám ơn. Còn bạn?
+Hôm nay bạn khỏe không?\Tôi khỏe
+Bạn từ đâu tới?\Tôi đến từ Portland. Còn bạn?
+Tôi đến từ Portland. Còn bạn?\Tôi đến từ Medford
+Ồ, Medford rất đẹp\Đúng vậy
+Bạn có biết bơi không?\Tôi có
+Họ có thể nói tiếng Đức không?\Họ không thể
+Anh ấy có biết chơi tennis không?\Anh ấy có thể
+Cô ấy có thể nấu món ăn Ý không?\Cô ấy không 
+John có thể sử dụng máy tính không?\Anh ấy có
+Susan có lái xe được không?\Cô ấy không
+Bạn biết chơi môn thể thao nào? \Tôi có thể chơi tennis, bóng đá và bóng chuyền
+Còn bạn?Bạn có thể chơi môn thể thao nào?\Tôi có thể chơi bóng chày, cầu long và bóng đá
+Bạn biết bơi không?\Tất nhiênCòn bạn?
+Còn bạn?\Tôi không nhưng anh trai tôi thì biết bơi.Và anh ấy có thể dạy tôi
+Túi của ai đây?\Túi của tôi
+Đây là túi của bạn có phải không?\Vâng, nó là của tôi
+Đây là đồng hồ của anh ấy phải không?\Không, nó là của bạn
+Đây là di động của John phải không?\Đúng, nó là của anh ấy
+Đây là mũ của tôi phải không?\Không, nó là của cô ấy
+ Đây là máy ảnh của các bạn phải không?\Đúng, nó là của chúng tôi
+Đây là sách của chúng ta phải không?\Không, nó là của anh ấy
+Đây là nhà của John và Mary phải không?\Đúng, đây là nhà của họ
+Túi kia là của ai?\Nó là của tôi
+Quyển sách này của ai?\Nó là của anh ấy
+Chiếc ô tô kia của ai?\Nó là của cô ấy
+Mũ này là của ai?\Nó là của Mary
+Những quần áo kia là của ai?\Chúng là của John
+Đôi giày này của ai?\Chúng là của bạn
+Những chiếc bút này của ai?\Chúng là của chúng tôi
+ Quần áo kia là của ai?\Chúng là của bạn
+Anh đang sống ở Los Angeles phải không?\Không,Tôi đang sống ở Chicago nhưng tôi từng sống ở Los Angeles
+Anh làm gì ở đó?\Tôi từng là diễn viên.Tôi từng giàu có và nổi tiếng
+Thời tiết hôm nay thế nào?\Trời mưa
+Thời tiết ngày hôm qua thế nào?\Trời nắng
+Thời tiết sẽ thế nào?\Trời sẽ nóng
+Thời tiết sắp tới thế nào?\Trời sắp có tuyết
+Hôm nay trời lạnh không?\Có
+Hôm qua trời ấm không?\Không. Hơi se lạnh
+Trời sẽ có nhiều mây vào ngày mai phải không?\Đúng vậy
+Ngày mai trời sẽ trở gió phải không?\ Không
+Thời tiết hôm nay thế nào?\Hơi mưa một chút
+Trời có lạnh không?\Không, trời mát , chứ không lạnh đâu
+Thời tiết ngày hôm qua thế nào?\Trời nắng và dễ chịu
+Thời tiết ngày mai thế nào?\Trời sẽ mưa
+Tôi muốn một quả táo\Tôi muốn một ít thuốc
+Họ muốn một chút tiền\Anh ấy muốn một cái bút chì
+Cô ấy muốn vài cái bút chì\Anh ấy muốn một chiếc ô tô
+Bạn muốn một quả táo không?\Tôi có
+Cô ấy có muốn vài quả táo phải không?\Không phải vậy
+các bạn muốn một chiếc ô-tô phải không?\ Đúng vậy
+Họ muốn một vài cái ô-tô phải không?\Họ không
+Bạn muốn chơi phải không?\Tôi không muốn
+Bạn có muốn học không?\Chúng tôi muốn
+Họ có muốn đi ra ngoài không chơi không?\Họ không
+Cô ấy muốn ngủ không?\Cô ấy không
+Anh ấy muốn bơi không?\Anh ấy có
+Xin chào! Ai vậy?
+Mình Bob đây\Chào Bob, vào đi 
+ Tớ đợi cậu mãi\ Cậu khỏe không?
+ Tớ ổn\Mình vẫn thấy hơi buồn ngủ
+Mình vẫn chưa uống café\Ừ, mình hiểu
+Cậu muốn uống gì không?\Cậu có nước cam ép không?
+Cậu có nước cam ép không?\Không, mình hết nước cam rồi.Cậu muốn uống nước nho không?
+Cậu muốn uống nước nho không?\ Nước nho à?Nghe tuyệt đấy
+Ồ, xin lỗi nhé.Mình cũng hết cả nước nho rồi\Chán thế
+Cậu ăn sáng chưa?\Chưa, còn cậu?
+Cậu có đói không?\Mình có
+Vậy cùng ra ngoài ăn gì nhé\Được, nghe hay đấy
+Cô mình có một cửa hàng bán đồ ăn sáng gần đây\Tuyệt ,vậy mình đến đó đi
+Tuyệt ,vậy mình đến đó đi\ OK, đi thôi
+Chào Al, anh khỏe không?\Tôi khỏe.Cảm ơn. Còn cô?
+Tôi khỏe.Cảm ơn. Còn cô?\Tôi khỏe
+Bạn anh là ai thế?\Đây là Bob. Chúng tôi từng học cùng nhau
+Bob, đây là Wanita\Chào, rất vui được gặp cô , Wanita
+Chào, rất vui được gặp anh\Cô có nụ cười rất đẹp đấy
+Cô có nụ cười rất đẹp đấy\Cám ơn
+Anh không đẹp trai lắm. Nhưng trông cũng ổn đấy\Ồ, cám ơn
+Wanita, cô tôi có ở đây không?\Không, cô ấy sẽ đến đây vào khoảng 10 h
+Đây là thực đơn.Các anh muốn uống gì?\Tôi uống café.
+Ok, anh có muốn đường và sữa không?\Cho tôi café đen nhé
+Cho tôi café đen nhé\OK, một café đen
+Cho tôi nước cam tươi ép\Chúng tôi không có nước cam đâu.Tôi sẽ trở lại ngay
+Bạn muốn ăn gì cho bữa sáng?\Mình muốn ăn nhiều vào bữa sáng
+Mình muốn ăn nhiều vào bữa trưa\Ăn nhiều vào bữa trưa làm mình buồn ngủ
+Dù sao thì cậu có gợi ý gì cho bữa sáng không?\Bánh kếp cũng được đấy
+Bánh kếp à. Ngon đấy. Còn gì nữa không?\Cậu thích trứng không?
+Cậu thích trứng không?\Có, mình có thích
+thế cậu có thích trứng bác với bánh mỳ nướng không?Trứng ốp thì sao? Ngon lắm!\Trứng ốp à? Đúng vậy
+Trứng ốp à? \Đúng vậy
+Trứng tráng thì sao?\Mình cực thích tráng.Trứng tráng pho mát, trứng tráng thịt , trứng tráng với rau
+Ừm, hoa quả trộn\Bữa sáng mà có hoa quà trộn sữa chua thì ngon tuyệt
+Đúng vậy.Hoa quả có nhiều vitamin nữa\Còn gì nữa không nhỉ?
+Gì nữa nhỉ?\Cậu có thể uống café và ăn bánh xốp việt quất
+Cậu có thể uống café và ăn bánh xốp việt quất\Bánh xốp với café. Ngon đấy
+vậy cậu đã biết sẽ chọn món gì chưa?\Rồi, cảm ơn vì đã gợi ý cho mình
+cảm ơn vì đã gợi ý cho mình\Không có gì
+Vậy cậu sẽ chọn món gì vậy?\Một chiếc ham-bơ-gơ
+Ham-bơ-gơ á?\Ừ và kem
+Đây là café của anh, AlVà đây là nước của anhVậy là hai anh đã quyết định gọi món
+gì chưa?\Cô thích ăn gì cho bữa sáng?
+Cô thích ăn gì cho bữa sáng?\Tôi thường thích ăn trứng tráng
+Tôi muốn trứng tráng pho mát\Ok, một trứng tráng
+Ở đây có bánh kếp không?\Có, anh muốn mấy cái?
+Có, anh muốn mấy cái?\Cho tôi 3 cái.Và thịt muối
+3 bánh kép và thịt muối.Anh có muốn bánh mỳ nướng không?\Bánh mỳ nướng à? Cũng ngon đấy
+Cho tôi 3 miếng\Anh còn muốn gì nữa không?
+Anh còn muốn gì nữa không?\Ở đây có hoa quả tươi không?
+Ở đây có hoa quả tươi không?\Có , hôm nay có rau trộn hoa quả
+Có , hôm nay có rau trộn hoa quả\Ok. Rau trộn hoa quả , thế thôi
+Còn anh thì sao Bob?Anh muốn ăn gì nào?\Tôi muốn ham-bơ-gơ và kem
+Xin lỗi.Làm ơn cho tôi ham-bơ-gơ và kem\Ham-bơ-gơ và kem cho bữa sáng sao?
+Anh điên à?\Không, tôi đói
+Ok Một ham-bơ-gơAnh muốn kem loại nào?\Ở đây có những loại kem gì vậy?
+Chúng tôi có kem sô-cô-la , vani và dâu\Cho tôi kem vani
+Cho tôi kem vani\Vani .Ok
+Bữa sáng ngon tuyệt\Đúng vậy
+Cậu no chưa?\Tớ no rồi
+Cậu ăn nhiều thật đấy\Tớ rất đói.Tớ có thể ăn cả con ngựa ấy chứ
+Điều may là chúng ta không phải đi đến trường đua ngựa\Nhắc mới nhớ
+Chúng ta sẽ làm gì hôm nay?\Chúng ta đi xem phim đi
+Thanh toán trước đã.Sau đó chúng ta sẽ đi xem phim\Ok , Chúng ta sẽ đi xem phim
+Wanita, thanh toán cho chúng tôi với\Ok đợi tôi chút
+Chúa ơi, mình quên mang theo tiền rồi\Không sao.Mình có đủ
+Ok. Vậy tất cả cho bữa sáng là 10.30 đô\Cô tôi thường giảm cho tôi 50% đấy
+Cô tôi thường giảm cho tôi 50% đấy\Ồ xin lỗi, tôi quên mất
+Vậy là 5.15 đô\Đây là 7 đô
+Cô có thể giữ tiền thừa\Thật sao? Tôi có thể giữ tiền thừa?
+Thật sao? Tôi có thể giữ tiền thừa?\Đúng vậy, tiền boa cho cô mà
+Đúng vậy, tiền boa cho cô mà\Cảm ơn Al
+Cảm ơn cậu nhé, AL.Tớ sẽ trả tiền cậu khi nào chúng ta đi rút tiền ở trạm ATM nhé\Đừng bận tâm.Chỉ là bữa sáng thôi mà
+Mình sẽ trả bữa trưa\Cậu chắc không?
+Mình ăn nhiều lắm đấy\Mình quên mất đấy
+Này Al. Xe cậu đâu?\Tớ mang đi sửa rồi
+Ồ, cậu gặp tai nạn à?\Không, Mình chỉ để thợ cơ khí bảo dưỡng máy thôi
+Bao giờ thì xong?\Thợ cơ khí nói với tớ là thứ Hai sẽ xong
+Lâu thế\Ừ, lâu thật
+Cậu đang định đi nghỉ à?\Không ,mình chỉ mang xe đi bảo dưỡng cứ sau mỗi lần xe chạy được 3000 cây số
+Sao lại phải làm thế?\Vì nó cũ lắm rồi. Nó cần được bảo dưỡng nhiều
+Xe của bạn từ đời nào?\ Từ đời 75
+Thế cũng chẳng cũ lắm\Bà tớ còn sinh năm 1912 cơ.
+Ừm, tớ đoán là nếu so với bà cậu thì xe tớ cũng chẳng cũ lắm\Ừm
+Này, đợi chút, thế chúng ta đi xem phim bằng gì?\Chúng ta có thể đi bộ hoặc tàu
+Tùy cậu thôi\ Cậu điên à?
+Trung tâm thương mại xa lắm đấy\Trong trường hợp này, chúng ta sẽ đi tàu thôi
+
