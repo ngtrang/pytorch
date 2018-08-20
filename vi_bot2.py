@@ -72,7 +72,7 @@ def readLangs(reverse=False):
     #     #lines = open('data/OpenSubtitles/processed_OpenSubtitles_reverse.txt', encoding='utf-8').read().strip().split('\n')
     #     lines = open('data/Twitter/processed_Twitter_reverse.txt', encoding='utf-8').read().strip().split('\n')
     # else:
-    lines = open('100conver.txt', encoding='utf-8').read().strip().split('\n')
+    lines = open('100conver2.txt', encoding='utf-8').read().strip().split('\n')
     # lines = open('data/answer_databse.txt', encoding='utf-8').read().strip().split('\n')
 
     # Split every line into pairs and normalize
@@ -688,7 +688,6 @@ def run_train(iterations):
     plt.matshow(attentions.numpy())
     return encoder1, attn_decoder1
 
-f
 ######################################################################
 # For a better viewing experience we will do the extra work of adding axes
 # and labels:
@@ -757,7 +756,7 @@ if __name__ == '__main__':
     #         iters = arg
     # to train a chatbot
 
-    perplexity, _, _ = run_train(iterations=100000)  # 75000
+    perplexity, _, _ = run_train(iterations=75000)  # 75000
     print('Perplexity: ', perplexity)
 
     # elif usage == 'evaluate':
