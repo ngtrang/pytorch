@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vi_bot2.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vi_bot2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vi_bot2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="763" column="5" lean-forward="false" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
+            <state relative-caret-position="552">
+              <caret line="765" column="23" lean-forward="true" selection-start-line="765" selection-start-column="23" selection-end-line="765" selection-end-column="23" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result-vi2" pinned="false" current-in-tab="true">
+      <file leaf-file-name="result-vi2" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result-vi2">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1423">
@@ -86,7 +86,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>initHidden</find>
       <find>autograd</find>
       <find>torch.ten</find>
       <find>loss</find>
@@ -116,9 +115,11 @@
       <find>train</find>
       <find>input</find>
       <find>show</find>
+      <find>viencoder</find>
     </findStrings>
     <replaceStrings>
       <replace>Output:</replace>
+      <replace>encoder</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -878,16 +879,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vi_bot2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="763" column="5" lean-forward="false" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/viatt.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -906,6 +897,16 @@
         <state relative-caret-position="-1423">
           <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vi_bot2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="765" column="23" lean-forward="true" selection-start-line="765" selection-start-column="23" selection-end-line="765" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

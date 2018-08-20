@@ -533,8 +533,8 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, plot_every=100,
             print_loss_total = 0
             print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, print_loss_avg))
-            torch.save(encoder, 'model/viencoder.pkl')
-            torch.save(decoder, 'model/videcoder.pkl')
+            torch.save(encoder, 'model/encoder.pkl')
+            torch.save(decoder, 'model/decoder.pkl')
 
         if iter % plot_every == 0:
             plot_loss_avg = plot_loss_total / plot_every
@@ -659,8 +659,8 @@ def evaluateRandomly(encoder, decoder, n=10):
 def run_train(iterations):
     hidden_size = 256  # original 256 for single layer
     try:
-        encoder1 = torch.load('model/viencoder.pkl')
-        attn_decoder1 = torch.load('model/videcoder.pkl')
+        encoder1 = torch.load('model/encoder.pkl')
+        attn_decoder1 = torch.load('model/decoder.pkl')
     except:
         encoder1 = EncoderRNN(input_lang.n_words, hidden_size).to(device)
         attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, dropout_p=0.1).to(device)
@@ -684,11 +684,11 @@ def run_train(iterations):
     #
 
     output_words, attentions = evaluate(
-        encoder1, attn_decoder1, "How are you")
+        encoder1, attn_decoder1, "xin chào")
     plt.matshow(attentions.numpy())
     return encoder1, attn_decoder1
 
-
+f
 ######################################################################
 # For a better viewing experience we will do the extra work of adding axes
 # and labels:
@@ -764,8 +764,8 @@ if __name__ == '__main__':
     #
     # elif usage == 'test':
     # to test a chatbot
-    encoder1 = torch.load('model/viencoder.pkl')
-    attn_decoder1 = torch.load('model/videcoder.pkl')
+    encoder1 = torch.load('model/encoder.pkl')
+    attn_decoder1 = torch.load('model/decoder.pkl')
     input_sentence = ''
     evaluateAndShowAttention("xin chào", encoder1, attn_decoder1)
     #     while input_sentence != 'exit':
