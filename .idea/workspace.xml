@@ -14,48 +14,24 @@
       <file leaf-file-name="vi_bot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vi_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="75" column="72" lean-forward="true" selection-start-line="75" selection-start-column="72" selection-end-line="75" selection-end-column="72" />
+            <state relative-caret-position="176">
+              <caret line="107" column="9" lean-forward="true" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
               <folding>
                 <element signature="e#44#109#0" expanded="true" />
+                <element signature="e#8481#8551#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viatt.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viatt.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vi_database.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/vi_database.txt">
+      <file leaf-file-name="en_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/en_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="result-vi" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result-vi">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="299" column="0" lean-forward="true" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="-7215">
+              <caret line="427" column="49" lean-forward="false" selection-start-line="427" selection-start-column="49" selection-end-line="427" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,10 +47,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
-      <find>?</find>
-      <find>normalizeString</find>
-      <find>pkl</find>
       <find>choice</find>
       <find>forward</find>
       <find>initHidden</find>
@@ -90,7 +62,6 @@
       <find>learning</find>
       <find>trainIters</find>
       <find>50</find>
-      <find>train</find>
       <find>trainIt</find>
       <find>filterpairs</find>
       <find>Question</find>
@@ -98,9 +69,14 @@
       <find>answer</find>
       <find>counted wo</find>
       <find>model</find>
-      <find>attn</find>
       <find>&lt;</find>
       <find>unk</find>
+      <find>att</find>
+      <find>size</find>
+      <find>attn</find>
+      <find>indexesFromSentence</find>
+      <find>tensorsFromPair</find>
+      <find>train</find>
     </findStrings>
     <replaceStrings>
       <replace>Output:</replace>
@@ -117,10 +93,10 @@
         <option value="$PROJECT_DIR$/prepare_OpenSubtitles.py" />
         <option value="$PROJECT_DIR$/prepare_Twitter.py" />
         <option value="$PROJECT_DIR$/seq2seq_model.py" />
-        <option value="$PROJECT_DIR$/en_model.py" />
         <option value="$PROJECT_DIR$/data/100eng-vi.txt" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/result-vi" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/en_model.py" />
         <option value="$PROJECT_DIR$/vi_bot.py" />
       </list>
     </option>
@@ -166,101 +142,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="pytorch" type="cbb8eebc:String" user="pytorch" />
             </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="pytorch" type="cbb8eebc:String" user="pytorch" />
-              <item name="data" type="cbb8eebc:String" user="data" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="pytorch" type="cbb8eebc:String" user="pytorch" />
-              <item name="model" type="cbb8eebc:String" user="model" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="nguye" type="cbb8eebc:String" user="nguye" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="nguye" type="cbb8eebc:String" user="nguye" />
-              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="nguye" type="cbb8eebc:String" user="nguye" />
-              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="nguye" type="cbb8eebc:String" user="nguye" />
-              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="nguye" type="cbb8eebc:String" user="nguye" />
-              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-              <item name="1417756408" type="cbb8eebc:String" user="1417756408" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="nguye" type="cbb8eebc:String" user="nguye" />
-              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-              <item name="1417756408" type="cbb8eebc:String" user="1417756408" />
-              <item name="torch" type="cbb8eebc:String" user="torch" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="nguye" type="cbb8eebc:String" user="nguye" />
-              <item name=".PyCharmCE2017.3" type="cbb8eebc:String" user=".PyCharmCE2017.3" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-              <item name="1417756408" type="cbb8eebc:String" user="1417756408" />
-              <item name="torch" type="cbb8eebc:String" user="torch" />
-              <item name="_C" type="cbb8eebc:String" user="_C" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -288,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.vi_bot">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,9 +374,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.vi_bot" />
-        <item index="2" class="java.lang.String" itemvalue="Python.en_model" />
+        <item index="0" class="java.lang.String" itemvalue="Python.vi_bot" />
+        <item index="1" class="java.lang.String" itemvalue="Python.en_model" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
         <item index="3" class="java.lang.String" itemvalue="Python.seq2seq_model (1)" />
         <item index="4" class="java.lang.String" itemvalue="Python.prepare_Twitter" />
       </list>
@@ -539,7 +420,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21563981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41587678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -585,39 +466,19 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/en_model.py</url>
-          <line>131</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/en_model.py</url>
-          <line>132</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/en_model.py</url>
-          <line>137</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/en_model.py</url>
-          <line>138</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vi_bot.py</url>
-          <line>130</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vi_bot.py</url>
-          <line>131</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="82" />
+          <line>3</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/en_model.py</url>
+          <line>426</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vi_bot.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -630,12 +491,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="83" />
+      <option name="time" value="108" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Python3.6.3/Lib/site-packages/torch/nn/modules/module.py" />
     <entry file="file://$PROJECT_DIR$/prepare_Twitter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -710,6 +570,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="787" column="0" lean-forward="true" selection-start-line="787" selection-start-column="0" selection-end-line="787" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -920,13 +781,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/en_model.py">
+    <entry file="file://$PROJECT_DIR$/data/100eng-vie.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#65#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="-1350">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/100eng-vi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108073">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pyvi/ViTokenizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="153" column="4" lean-forward="false" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result-vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="299" column="0" lean-forward="false" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100conver.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -943,52 +842,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/100eng-vie.txt">
+    <entry file="file://$PROJECT_DIR$/en_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1350">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/100eng-vi.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-421">
-          <caret line="4296" column="30" lean-forward="true" selection-start-line="4296" selection-start-column="30" selection-end-line="4296" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100conver.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17923">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result-vi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="299" column="0" lean-forward="true" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-7215">
+          <caret line="427" column="49" lean-forward="false" selection-start-line="427" selection-start-column="49" selection-end-line="427" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vi_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="75" column="72" lean-forward="true" selection-start-line="75" selection-start-column="72" selection-end-line="75" selection-end-column="72" />
+        <state relative-caret-position="176">
+          <caret line="107" column="9" lean-forward="true" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
           <folding>
             <element signature="e#44#109#0" expanded="true" />
+            <element signature="e#8481#8551#0" expanded="false" />
           </folding>
         </state>
       </provider>

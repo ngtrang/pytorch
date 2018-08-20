@@ -11,6 +11,7 @@ import torch
 import torch.nn as nn
 from torch import optim
 import torch.nn.functional as F
+from pyvi import ViTokenizer
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -19,7 +20,7 @@ print(device)
 
 SOS_token = 0
 EOS_token = 1
-MAX_LENGTH = 10
+MAX_LENGTH = 15
 
 class Lang:
     def __init__(self, name):
@@ -30,7 +31,9 @@ class Lang:
         self.n_words = 3  # Count SOS and EOS and UNK
 
     def addSentence(self, sentence):
-        for word in sentence.split(' '):
+        str = ViTokenizer.tokenize(sentence).split(" ")
+        for word in str:
+            #word.replace("_"," ")
             self.addWord(word)
 
     def addWord(self, word):
@@ -99,7 +102,7 @@ def filterPair(p):
     #     return False
     # else:
     #     return  len(p[0].split(' ')) < MAX_LENGTH and len(p[1].split(' ')) < MAX_LENGTH
-    lst = [x for x in p if len(x.split(' ')) < MAX_LENGTH]
+    lst = [x for x in p if len(ViTokenizer.tokenize(x).split(' ')) < MAX_LENGTH]
     if len(lst) == 2:
         return True
     else:
@@ -270,7 +273,7 @@ class AttnDecoderRNN(nn.Module):
 #
 
 def indexesFromSentence(lang, sentence):
-    return [lang.word2index[word] if word in lang.word2index.keys() else lang.word2index['UNK'] for word in sentence.split(' ')]
+    return [lang.word2index[word] if word in lang.word2index.keys() else lang.word2index['UNK'] for word in ViTokenizer.tokenize(sentence).split(' ')]
 
 
 def tensorFromSentence(lang, sentence):
@@ -306,7 +309,7 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
 
     loss = 0
 
-    for ei in range(input_length):
+    for ei in range(input_length): #input_length
         encoder_output, encoder_hidden = encoder(
             input_tensor[ei], encoder_hidden)
         encoder_outputs[ei] = encoder_output[0, 0]
@@ -631,8 +634,8 @@ if __name__ == '__main__':
     #         iters = arg
     # to train a chatbot
 
-    # perplexity, _, _ = run_train(iterations=100000) #75000
-    # print('Perplexity: ', perplexity)
+    perplexity, _, _ = run_train(iterations=50000) #75000
+    print('Perplexity: ', perplexity)
 
     # elif usage == 'evaluate':
     #     # calculate BLEU and perplexity
