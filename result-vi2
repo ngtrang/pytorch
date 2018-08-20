@@ -1,0 +1,155 @@
+C:\Users\nguye\Desktop\Study\PHD\Deep-Learning-and-nlp\silly-chatbot-master\silly-chatbot-master\venv_tensor\Scripts\python.exe C:/Users/nguye/OneDrive/Документы/GitHub/pytorch/vi_bot.py
+cuda
+Reading lines...
+Read 728 sentence pairs
+Trimmed to 445 sentence pairs
+Counting words...
+Counted words:
+Question 670
+Answer 632
+0m 42s (- 42m 15s) (500 1%) 6.4399
+1m 21s (- 39m 34s) (1000 3%) 6.3929
+2m 5s (- 39m 36s) (1500 5%) 5.9441
+2m 38s (- 36m 53s) (2000 6%) 5.1799
+3m 12s (- 35m 15s) (2500 8%) 4.7608
+3m 46s (- 33m 55s) (3000 10%) 4.6600
+4m 18s (- 32m 40s) (3500 11%) 4.4448
+4m 52s (- 31m 43s) (4000 13%) 4.4409
+5m 28s (- 31m 2s) (4500 15%) 4.5749
+6m 8s (- 30m 41s) (5000 16%) 4.3857
+6m 38s (- 29m 37s) (5500 18%) 4.5133
+7m 10s (- 28m 40s) (6000 20%) 4.1826
+7m 41s (- 27m 47s) (6500 21%) 4.3204
+8m 11s (- 26m 53s) (7000 23%) 4.2066
+8m 40s (- 26m 2s) (7500 25%) 4.2006
+9m 11s (- 25m 16s) (8000 26%) 4.0550
+9m 42s (- 24m 32s) (8500 28%) 3.9920
+10m 12s (- 23m 49s) (9000 30%) 3.9000
+10m 41s (- 23m 4s) (9500 31%) 3.8513
+11m 11s (- 22m 22s) (10000 33%) 3.8719
+11m 40s (- 21m 40s) (10500 35%) 3.5839
+12m 9s (- 21m 0s) (11000 36%) 3.5812
+12m 37s (- 20m 18s) (11500 38%) 3.5373
+13m 6s (- 19m 39s) (12000 40%) 3.4209
+13m 34s (- 19m 0s) (12500 41%) 3.3500
+14m 3s (- 18m 23s) (13000 43%) 3.3876
+14m 33s (- 17m 47s) (13500 45%) 3.5022
+15m 3s (- 17m 12s) (14000 46%) 3.4244
+15m 31s (- 16m 36s) (14500 48%) 3.3230
+16m 1s (- 16m 1s) (15000 50%) 3.3547
+16m 29s (- 15m 26s) (15500 51%) 3.3082
+16m 58s (- 14m 51s) (16000 53%) 3.2365
+17m 26s (- 14m 16s) (16500 55%) 3.3870
+17m 56s (- 13m 43s) (17000 56%) 3.3969
+18m 26s (- 13m 10s) (17500 58%) 3.5421
+18m 56s (- 12m 37s) (18000 60%) 3.5001
+19m 25s (- 12m 4s) (18500 61%) 3.4818
+19m 56s (- 11m 32s) (19000 63%) 3.5101
+20m 27s (- 11m 1s) (19500 65%) 3.5200
+20m 58s (- 10m 29s) (20000 66%) 3.4776
+21m 28s (- 9m 57s) (20500 68%) 3.4932
+21m 58s (- 9m 25s) (21000 70%) 3.4256
+22m 29s (- 8m 53s) (21500 71%) 3.3900
+23m 0s (- 8m 21s) (22000 73%) 3.4746
+23m 29s (- 7m 49s) (22500 75%) 3.3418
+23m 59s (- 7m 18s) (23000 76%) 3.3821
+24m 29s (- 6m 46s) (23500 78%) 3.4388
+25m 0s (- 6m 15s) (24000 80%) 3.5115
+25m 30s (- 5m 43s) (24500 81%) 3.3456
+26m 0s (- 5m 12s) (25000 83%) 3.2833
+26m 31s (- 4m 40s) (25500 85%) 3.4413
+27m 2s (- 4m 9s) (26000 86%) 3.3783
+27m 32s (- 3m 38s) (26500 88%) 3.4203
+28m 3s (- 3m 7s) (27000 90%) 3.4264
+28m 34s (- 2m 35s) (27500 91%) 3.5233
+29m 5s (- 2m 4s) (28000 93%) 3.3702
+29m 35s (- 1m 33s) (28500 95%) 3.4995
+30m 5s (- 1m 2s) (29000 96%) 3.2398
+30m 35s (- 0m 31s) (29500 98%) 3.3374
+31m 5s (- 0m 0s) (30000 100%) 3.3929
+> cô ta làm nghề gì ?
+= cô ta là luật sư .
+< tôi .
+
+> chúng ta nên đi bộ không ?
+= không, xa lắm . chúng ta hãy lái xe đi .
+< tôi .
+
+> tấm ảnh này chụp ở đâu ?
+= tấm ảnh đó chụp ở nhà ga xe lửa trước khi chúng tôi đi .
+< tôi .
+
+> nó có xa đây không ?
+= không, không xa đâu .
+< tôi .
+
+> xin lỗi, tôi nghĩ bạn gọi lầm số .
+= có phải số 6172282289 ?
+< tôi .
+
+> hãy gắng nghỉ ngơi, và phải uống nhiều nước và nước cam vắt .
+=
+< tôi .
+
+> ở nước tôi mọi người đều biết họ . họ rất nổi tiếng .
+= vậy hả ?
+< tôi .
+
+> bạn nói giỏi lắm .
+= cám ơn .
+< tôi .
+
+> that’s no problem .
+= cám ơn . tôi sẽ trả lại bạn vào thứ sáu .
+< tôi .
+
+> bạn chuyên ngành gì ?
+= tâm lý .
+< tôi .
+
+Perplexity:  14.132873487988832
+0m 30s (- 0m 0s) (500 100%) 3.3203
+> 30 sáng được không ?
+= xin lỗi tôi không nghe rõ . bạn nói lại được không ?
+< tôi .
+
+> joseph, người phụ nữ đó là ai vậy ?
+= đó là susan .
+< tôi .
+
+> cơ sở dữ liệu cho những doanh nghiệp nhỏ .
+= công ty của bạn có trang web không ?
+< tôi .
+
+> are you busy ?
+= yes . it’s been really busy here all day .
+< tôi .
+
+> tôi đoán vậy . có lẽ vì vậy tôi không tìm được bạn gái .
+=
+< tôi .
+
+> chào joe .
+= thời tiết ở đó thế nào ?
+< tôi .
+
+> có .
+= địa chỉ trang web đó là gì ?
+< tôi .
+
+> được, tôi sẽ đi lấy nó cho bạn .
+=
+< tôi .
+
+> bạn ở đây bao lâu rồi ?
+= hai tháng .
+< tôi .
+
+> tốt lắm .
+= màu này được không, hay ông thích màu khác ?
+< tôi .
+
+Perplexity of the whole training process:  9.988919285644483
+BLEU score of the whole model: 0.0000%
+
+Process finished with exit code 0

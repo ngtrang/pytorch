@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="vi_bot.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vi_bot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vi_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="107" column="9" lean-forward="true" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+            <state relative-caret-position="-11851">
+              <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding>
                 <element signature="e#44#109#0" expanded="true" />
                 <element signature="e#8481#8551#0" expanded="false" />
@@ -24,11 +24,50 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="vi_bot2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vi_bot2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="763" column="5" lean-forward="true" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viatt.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viatt.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result-vi2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result-vi2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1423">
+              <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result-vi" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result-vi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="en_model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/en_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7215">
-              <caret line="427" column="49" lean-forward="false" selection-start-line="427" selection-start-column="49" selection-end-line="427" selection-end-column="49" />
+            <state relative-caret-position="150">
+              <caret line="432" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="780" selection-end-column="40" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -47,8 +86,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>choice</find>
-      <find>forward</find>
       <find>initHidden</find>
       <find>autograd</find>
       <find>torch.ten</find>
@@ -77,6 +114,8 @@
       <find>indexesFromSentence</find>
       <find>tensorsFromPair</find>
       <find>train</find>
+      <find>input</find>
+      <find>show</find>
     </findStrings>
     <replaceStrings>
       <replace>Output:</replace>
@@ -98,6 +137,8 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/en_model.py" />
         <option value="$PROJECT_DIR$/vi_bot.py" />
+        <option value="$PROJECT_DIR$/result-vi2" />
+        <option value="$PROJECT_DIR$/vi_bot2.py" />
       </list>
     </option>
   </component>
@@ -123,17 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Seq2seq-pytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Seq2seq-pytorch" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
@@ -146,6 +176,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Seq2seq-pytorch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Seq2seq-pytorch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,6 +194,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\OneDrive\Документы\GitHub\pytorch" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Seq2seq-pytorch" />
     </key>
@@ -169,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.vi_bot">
+  <component name="RunManager" selected="Python.vi_bot2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,24 +245,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Seq2seq-pytorch" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/en_model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="prepare_Twitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Seq2seq-pytorch" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_Twitter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,6 +299,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Seq2seq-pytorch" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vi_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="vi_bot2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Seq2seq-pytorch" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vi_bot2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,18 +411,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.seq2seq_model (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.prepare_Twitter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.vi_bot" />
-      <item index="4" class="java.lang.String" itemvalue="Python.en_model" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.vi_bot" />
+      <item index="3" class="java.lang.String" itemvalue="Python.en_model" />
+      <item index="4" class="java.lang.String" itemvalue="Python.vi_bot2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.vi_bot" />
-        <item index="1" class="java.lang.String" itemvalue="Python.en_model" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.seq2seq_model (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.prepare_Twitter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.vi_bot2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.vi_bot" />
+        <item index="2" class="java.lang.String" itemvalue="Python.en_model" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.seq2seq_model (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -496,21 +540,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prepare_Twitter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prepare_OpenSubtitles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41525">
@@ -785,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1350">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108073">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,15 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
           <caret line="153" column="4" lean-forward="false" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result-vi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="299" column="0" lean-forward="false" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -829,36 +846,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viatt.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/vi_database.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/en_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7215">
-          <caret line="427" column="49" lean-forward="false" selection-start-line="427" selection-start-column="49" selection-end-line="427" selection-end-column="49" />
+        <state relative-caret-position="150">
+          <caret line="432" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="780" selection-end-column="40" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/result-vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result-vi2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1423">
+          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viatt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vi_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="107" column="9" lean-forward="true" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+        <state relative-caret-position="-11851">
+          <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding>
             <element signature="e#44#109#0" expanded="true" />
             <element signature="e#8481#8551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vi_bot2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="763" column="5" lean-forward="true" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
       </provider>

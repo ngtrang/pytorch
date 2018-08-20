@@ -422,6 +422,7 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, plot_every=100, lear
         perplexity = 2 ** (np.mean(all_losses)) # Not sure if the formular is correct, base =2 or e?
 
     showPlot(plot_losses)
+
     return perplexity
 
 
@@ -446,6 +447,7 @@ def showPlot(points):
     loc = ticker.MultipleLocator(base=0.2)
     ax.yaxis.set_major_locator(loc)
     plt.plot(points)
+    fig.savefig("plt_losses.png")
 
 
 ######################################################################
@@ -634,7 +636,7 @@ if __name__ == '__main__':
     #         iters = arg
     # to train a chatbot
 
-    perplexity, _, _ = run_train(iterations=50000) #75000
+    perplexity, _, _ = run_train(iterations=30000) #75000
     print('Perplexity: ', perplexity)
 
     # elif usage == 'evaluate':
