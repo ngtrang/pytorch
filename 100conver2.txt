@@ -1,19 +1,15 @@
 ﻿Xin chào.\Xin chào.
 Bạn khỏe không?\Tôi khỏe. Bạn khỏe không?
-Khỏe. Bạn có nói tiếng Anh không?\Một chút. Bạn là người Mỹ hả?
-Vâng.\Bạn từ đâu tới?
-Tôi đến từ California.\Rất vui được gặp bạn.
-Tôi cũng rất vui được gặp bạn.\
+Khỏe. Bạn có nói tiếng Anh không?\Một chút.
+Bạn là người Mỹ hả?\Vâng.
+Bạn từ đâu tới?\Tôi đến từ California.
+Rất vui được gặp bạn.\Tôi cũng rất vui được gặp bạn.
 Xin lỗi, bạn là người Mỹ phải không?\Không.
 Bạn có nói tiếng Anh không?\Một chút, nhưng không giỏi lắm.
 Bạn ở đây bao lâu rồi?\Hai tháng.
 Bạn làm nghề gì?\Tôi là một học sinh. Còn bạn?
 Tôi cũng là một học sinh.\
 Xin lỗi, bạn tên là gì?\Tên tôi là Jessica. Còn tên của bạn?
- You speak English very well.\ Thank you.
- Do you know what time it is?\ Sure. It’s 5
- What did you say?\ I said it’s 5
- Thanks.\ You’re welcome.
 Chào Michael.\Chào Amy. Có chuyện gì vậy?
 Tôi đang tìm sân bay. Bạn có thể nói cho tôi biết làm cách nào đến đó được không?\Không, rất tiếc. Tôi không biết.
 Tôi nghĩ tôi có thể đi xe điện ngầm để tới sân bay. Bạn có biết đường xe điện ngầm ở đâu không?\Chắc rồi. Nó ở đằng kia.
@@ -167,13 +163,6 @@ Tôi sẽ mua vài cuốn sách rồi tôi sẽ đi tới cây xăng.\Nếu bạ
 Được. Tôi sẽ chờ bạn.\
 A lô?\Xin chào, James có đó không?
 Vâng, ai gọi vậy?\ One moment please.
- OK.\ Hello?
- Hi James, it’s Linda.\ Hi Linda.
- What are you doing now?\ I’m working.
- Are you busy?\ Yes. It’s been really busy here all day.
- What time do you get off of work?\ 8
- I’ll call you back after 8\ OK. Talk to you later.
- Bye bye.\Bài học 26 – Chuyến đi của gia đình.
 David, dạo gần đây bạn làm gì?\Tuần trước tôi đi du lịch với gia đình.
 Vậy hả? Các bạn đi đâu?\Chúng tôi đi Âu Châu.
 Các bạn đi thăm những thành phố nào?\Luân Đôn, Paris và một vài thành phố nhỏ hơn.
@@ -269,9 +258,6 @@ Thấy có thể chỉ cho tôi trên bản đồ được không?\Được ch�
 Ô, tôi thấy rồi. Mexico ở đâu?\Mexico ở phía nam của nước Mỹ.
 Còn Connecticut? Nơi đó ở đâu?\Connecticut ở phía đông của New York.
 Bang nào ở phía tây của Pennsylvania?\ OK, Where’s Los Angeles?
- Los Angelesis inCalifornia. It’s southeast ofSan Francisco.\ Where’s Boston?
- Boston is in the northeast part of the country.\ Where is Las Vegas?
- Las Vegas is in the southwest.\Bài học 39 – Tôi ăn ở khách sạn.
 Chào Maria, bạn ăn sáng chưa?\Vâng, tôi ăn ở khách sạn với con trai và chồng tôi.
 Ô, ở đó họ có thức ăn ngon. Bạn dùng món gì?\Tôi dùng ngũ cốc, trứng chiên và nước cam vắt.
 Mấy món đó thế nào?\Thức ăn không ngon lắm, thực sự là bây giờ tôi không cảm thấy khỏe lắm.
@@ -328,10 +314,6 @@ Bạn muốn tới lấy hay chúng tôi đưa tới nhà?\Bạn có thể giao 
 A lô.\Chào, Heather có đó không?
 Xin lỗi, tôi nghĩ bạn gọi lầm số.\Có phải số 617-228-2289?
 Vâng, bạn cho biết lại bạn đang tìm ai?\ Oh, I thought you said Laura. Sorry about that. This is the right number, but Heather’s not here right now.
- Do you know where she went?\ She went to the store to buy some groceries. Would you like to leave a message?
- Yes, would you please tell her Eric Martin called?\ Hi Eric, this is her roommate Kathy. I met you a couple months ago at the Christmas party.
- Oh, yes. How are you?\ Good. Heather will be back in about 20 minutes. I’ll tell her you called.
- OK. Thanks.\ Bye bye.
 A lô.\Chào Tina, Joe đây.
 Chào Joe.\Thời tiết ở đó thế nào?
 Lạnh lắm. Trời mưa tuyết suốt ngày và các trường học đóng cửa sớm.\Nhiệt độ bao nhiêu?
@@ -454,7 +436,6 @@ Bạn sẽ ở bao nhiêu đêm?\2 đêm. Giá phòng là bao nhiêu?
 Tên của bạn?\ Miss Anderson, how will you be paying?
  Visa.\Làm ơn đọc số thẻ.
  Expiration date?\ 1/9/2012
- OK, You’re all set. We’ll see you on the 25th.\Bài học 63 – Tôi đổi ý.
 Kevin, bạn muốn làm gì?\Tôi không biết. Có lẽ xem ti vi.
 Đó là một ý kiến hay. Chúng ta sẽ đi mua sắm nên tôi nghĩ bạn nên nghỉ một lúc.\Tôi không nghĩ là tôi muốn đi nữa.
 Bạn muốn nói gì? Tôi nghĩ là bạn đã nói chúng ta sẽ đi mua sắm.\Tôi biết, nhưng tôi đổi ý rồi. Tôi mệt quá.
@@ -513,7 +494,6 @@ Tôi nghĩ là ban the Beatles, đúng không?\Đúng rồi. Làm sao bạn bi�
 Dĩ nhiên. Bố mẹ tôi xem họ trong một buổi trình diễn cách đây lâu rồi.\Bạn có biết rằng họ từ nước Anh không?
 Vâng, dĩ nhiên.\Bạn thường nghe loại nhạc gì?
 Tôi nghe mọi thứ, nhưng loại nhạc tôi ưa thích là pop.\Tôi hiểu. Bạn thích ca sĩ nào?
- I like her too. She’s got a great voice.\Bài học 71 – Đi tắc xi.
 Chào cô, cô cần tắc xi không?\Vâng.
 Cô có hành lý không?\Chỉ có 2 va li.
 Được, tôi sẽ để vào sau xe cho cô. Cô đi đâu?\Lữ Quán Comfort.
@@ -988,4 +968,128 @@ Thế cũng chẳng cũ lắm\Bà tớ còn sinh năm 1912 cơ.
 Này, đợi chút, thế chúng ta đi xem phim bằng gì?\Chúng ta có thể đi bộ hoặc tàu
 Tùy cậu thôi\ Cậu điên à?
 Trung tâm thương mại xa lắm đấy\Trong trường hợp này, chúng ta sẽ đi tàu thôi
+Bob, cậu có hay đi tàu không?\Có, Al à. Mình đi tàu hầu hết tất cả mọi ngày
+Tất cả mọi ngày à. Nhiều thật đấy\Mình thích đi tàu.Nó rất tiện lợi
+Nó rất tiện lợi\Mình biết.Và đây là cách nhanh nhất để đi vào (đi qua) thành phố
+Vào giờ cao điểm có đông người không?\Ừm, có rất đông người vào buổi sáng trước giờ làm việc.Và rất đông người vào buổi tối sau giờ tan sở
+Thế những lúc khác thì sao?\Vào những lúc khác, không đông người lắm
+ Và không có tắc nghẽn giao thông chứ?\Trên tàu á?Không bao giờ có tắc nghẽn giao thông
+Trên tàu á?Không bao giờ có tắc nghẽn giao thông\Thật tốt
+Cách nhanh nhất để di chuyển.Cậu biết không, tớ nghĩ đi tàu còn nhanh hơn cả lái xe đi nữa\Và đi tàu cũng không đắt lắm
+Này, Bob! Nhìn cái biển kia đi!\Trường đại học à?
+Chúng ta đang đợi nhầm chuyến tàu.Chúng ta ở nhầm đường ray (chỗ đợi tầu, nhà ga) nữa\Phải, chúng ta ở nhầm đường ray
+Vậy giờ chúng ta làm gì?\Ừm, chúng ta có thể đi taxi
+Taxi cũng tốt\Phải, taxi cũng tốt
+Vậy đi bắt taxi nào\Và chúng ta sẽ không phải mất thì giờ để đợi nhầm chuyến tàu
+Chào, Những đôi giày này đẹp thật đấy. Tôi có thể xem không?\Anh muốn đôi nào?
+Anh muốn đôi nào?\Đôi hiệu Actare nhìn đẹp đấy 
+Cho tôi đôi màu đen\Đôi màu đen .Đôi này rất đẹp, hàng nhập khẩu từ Ý
+Tôi đã từng đến Ý rồi.Đôi này giá bao nhiêu?\ Đôi này $80
+$80 đắt quá\Chẳng đắt lắm đâu.Chỉ có $40 một chiếc mà
+Anh có đôi giày khác màu đen không?\Đôi này $20 này
+Tại sao đôi này lại rẻ hơn nhiều vậy?\ Vì chúng được sản xuất ở đây
+Còn về chất lượng thì sao\Chất lượng rất tốt.Đôi này rất bền
+Thế $15 cho đôi này được không anh?\Rất tiếc, giá vậy không được anh ạ, $18 nhé
+Tôi sẽ trả $16\Thôi được, giá đặc biệt dành cho anh
+Anh có cần túi không?\Không cần đâu. Dù sao cũng cảm ơn.Tôi sẽ đi luôn
+Chào Michelle\Chào Al, Chào Bob
+Chào. Thật vui vì gặp lại cậu \Mình cũng vậy
+Này Al, giày mới phải không?\Đúng vậy.Cảm ơn vì đã nhận ra
+Al có đôi giày mới.Còn mình sẽ mua một chiếc di động mới\Vậy thì cậu đến đúng chỗ rồi đấy
+Cậu đã từng có cái di động nào chưa?\Chưa, đây sẽ là chiếc điện thoại đầu tiên của mình
+Tại sao cậu lại muốn mua di động?\ Vì Al sẽ không cho mình mượn điện thoại của cậu ấy nữa 
+Lý do hay đấy\Còn lý do nào nữa không?
+Còn lý do nào nữa không?\Mọi người dường như đều có di động.Có lẽ mình cũng nên có một chiếc
+Có lẽ mình cũng nên có một chiếc\Một lý do chính đáng khác
+Vậy cậu muốn di động có đặc điểm thế nào?\Có chuông to như thế này...
+Bob, bình tĩnh đi.Nó có thể rung\Vậy mình gợi ý cho cậu mua chiếc di động này
+Vậy mình gợi ý cho cậu mua chiếc di động này\Chiếc này. Tuyệt đấy. Cám ơn nhé.Mình sẽ lấy nó
+Này. Al. Cậu có thích chiếc di động mới của tớ không?\Al, có chuyện gì vậy?
+Al, có chuyện gì vậy?\Không sao, mình ổn. Ở đây có nhà vệ sinh không?
+Ở đây có nhà vệ sinh không?\Không, mình rất tiếc
+Không có nhà vệ sinh nào trong cửa hàng cả\Vậy, ở đâu có?
+Vậy, ở đâu có?\Có một nhà vệ sinh công cộng gần đây
+Ở đâu? Nó ở đâu?\Ồ, khó tìm lắm nếu cậu không biết ở đâu
+Làm ơn nhanh lên\Được rồi, được rồi
+Cậu đi ra khỏi của thì rẽ trái.Rồi. Ra cửa, bên trái. \Rồi sao nữa?
+Rồi sao nữa?\Và đi 50 mét cho tới khi nhìn thấy một cửa hàng cá cảnh
+Được,cửa hàng cá cảnh và sau đó?\Và sau đó cậu sẽ thấy một cái cầu thang.Đi xuống cái cầu thang đó
+Được được.Đi lên rồi sau đó?\Không , không, không phả đi lên mà đi xuống cầu thang
+Rồi, xuống cầu thang và sau đó?\Và sau đó cậu sẽ thấy một thác nước
+Và sau đó?\Và sau đó rẽ phải.Rồi, rẽ phải chỗ thác nước
+Và sau đó?\Và ở đó có nhà vệ sinh
+Cảm ơn , cảm ơn nhé.Vậy là ra cửa rồi rẽ phải hay trái nhỉ?\Có lẽ tớ nên vẽ cho cậu bản đồ
+Có lẽ tớ nên vẽ cho cậu bản đồ\Không cần đâu.Mình sẽ tự tìm
+Mình sẽ tự tìm\Này, chúc may mắn nhé.Hãy gọi cho tớ nếu bị lạcThật không dễ chút nào
+ Cậu đã sẵn sàng đi chưa Bob?\Rồi, Al. Mình đã sẵn sàng
+Cậu có muốn mời Michelle không?\Phải rồi.Michelle, cậu có muốn đi xem phim với bọn tớ không?
+Michelle, cậu có muốn đi xem phim với bọn tớ không?\WoW, nghe có vẻ vui đấy
+Khi nào các cậu đi?\Chúng tớ định đi trong 10 phút nữa
+10 phút?.Sớm quá.Mình phải đợi nhân viên đến đã\Khi nào thì nhân viên đến?
+Khi nào thì nhân viên đến?\Khoảng 1 tiếng nữa.Nên cứ đi mà không có mình cũng được
+Ồ, không. Chúng tớ đợi được\Không, các cậu cứ đi đi
+Thế sau khi xem phim xong thì saoSau đó cậu có rảnh không Michelle?\2 tiếng nữa mình hẹn gặp một người bạn rồi,rồisau đó mình sẽ về nhà
+Sau khi xem xong phim sao hai cậu không ghé qua đây và kể cho tớ nghe nhỉ?\Tuyệt đấy. Được thôi
+Chúng ta sẽ gặp cậu sau 2 tiếng nữa nhé?\Tuyệt đấy. Được, Tạm biệt nhé
+Tạm biệt nhé\Tạm biệt 
+WoW, rạp chiếu phim này lớn thật\Ở đây có 10 phòng chiếu cơ
+Cậu muốn xem hết phim ở đây à?\Mình không nghĩ vậy.Mình nghĩ một phim là đủ
+Phim này nói về cái gì?\ “I’m a lady, too”.Đó là một phim nước ngoài.Phim về một đội bóng chuyền chuyển giới
+Mình từng xem rồi\Thế còn phim “The Trek”? 
+ Cậu xem “The Trek” chưa? \Chưa
+Một phim hành động.Mình cũng muốn xem\Nhưng phim đã công chiếu đâu
+Nhưng phim đã công chiếu đâu\Phải rồi, sắp ra mắt
+Cậu đã xem phim “Our two hearts” chưa?\Nó về cái gì?
+Nó về cái gì?\Một câu chuyện tình yêu giữa một người đàn ông và một phụ nữ..
+Đủ rồi. Nếu là chuyện tình, tớ không muốn xem đâu\Tại sao? Nó buồn và lãng mạn mà
+Tại sao? Nó buồn và lãng mạn mà\Đúng thế đấy
+Lần cuối bọn mình xem một phim tình cảm, cậu đã khóc đấy\Tớ nhớ mà.Đó là một phim có câu chuyện hay
+Hãy xem phim hài đi\Được , mình thích cười
+ “Fool School” thì sao?\Mình đã đọc về phim này trên báo
+Nó có vẻ hài hước\Được. Vậy cùng xem “Fool School”
+Nhưng chúng ta nên nhanh lênNó bắt đầu trong 10 phút nữa\Hoàn hảo. Vừa đủ thời gian để mua vé và đi mua đồ ăn vặt
+Xin chào\Chào, Michelle, Al đây
+Chào Al, khỏe không?\Mình khỏe, cảm ơn
+Tớ gọi để hỏi xem cậu và Wanita có rảnh thứ Năm này không?\Sao ? Có gì vào thứ Năm à?
+Nếu hai người rảnh, tớ mời hai người đi ăn tối\Ăn tối à? Thứ Năm này?.Tớ không rảnh nhưng Wanita thì có đấy
+Tệ thật.Mình chắc là Bob sẽ buồn khi nghe tin này lắm\Ồ, Bob sẽ đi à
+Ồ, Bob sẽ đi à\Ừ, dĩ nhiên rồi
+Vậy để mình xem lại lịch của mình đã\Được.Này , cậu biết gì không?
+Mình rảnh vào tối hôm đó\Tuyệt
+Còn Wanita?\Để mình hỏi cô ấy?
+Có, cô ấy có vẻ rảnh \Tuyệt. Chúng ta gặp nhau lúc 7 h tối nhé?
+Được. Chúng ta sẽ gặp lúc mấy giờ?.Ở KFC được không?\KFC á?
+KFC á?\Mình đùa thôi.Thực ra mình đã đặt chỗ ở Salteaux Demy rồi
+Đó có phải là một nhà hàng kiểu Pháp đắt tiền không?\Đúng vậy nhưng mình có phiếu giảm giá
+4 người ăn chỉ phải trả cho 2 người\Ồ, thật tuyệt
+Vậy chúng ta gặp lúc 7 h tối nhé\7 h tối thứ Năm này
+Chúng tớ sẽ ở đó\Được. Tạm biệt
+Michelle, tớ chuẩn bị đi tới cửa hàng ở góc phố đây.Cậu muốn mua gì không?\Đợi chút, cậu chuẩn bị đi đâu cơ?
+Đợi chút, cậu chuẩn bị đi đâu cơ?\Cửa hàng ở góc phố, cậu biết mà, Seven Eleven
+Cậu muốn gì không?\Mình muốn một ổ bánh mỳ
+Được, tớ đi rồi về ngay\Đợi đã
+Gì vậy\Còn thứ gì đó nữa
+Một ổ bánh mỳ và cái gì đó nữa à?\Một cuộn giấy ăn
+Thật may cậu nhắc là chúng ta đã hết giấy ăn\Được, tớ về ngay
+Đợi đã, cậu có thể xem xem còn báo của ngày hôm nay không?\Mình nghĩ là bây giờ không còn đâu
+Ừm, nếu họ còn thì tốt,còn nếu không thì quên chuyện đó đi\Được, Mình về ngay
+Đợi đã\Gì thế?
+Gì thế?\Mình vừa nhớ ra cái này.Cậu mua giùm mình kem đánh răng được không?
+Cậu mua giùm mình kem đánh răng được không?\Kem đánh răng à?
+Kem đánh răng à?\Ừ, hương bạc hà nhé
+Được, mình về ngay\Và một xà phòng cho đồ giặt là nữa
+Cậu có bút không?.Mình nên viết lại.bánh mỳ và khăn giấy\Và báo nếu còn
+Xà phòng nữa. Đúng không?\Ồ, Mình biết rồi. Một cái bóng đèn cho tủ quần áo của mình
+Bóng đèn cho tủ quần áo của cậu à?\Khoan! Tớ đổi ý rồi
+Đổi ý à?\Mai tớ sẽ tự đi mua
+Tớ có tin xấu đây\Tin gì? 
+Tớ không thể đi ăn tối vào ngày mai được\Không thể đi ăn tối á?
+Tại sao?\Mình quên mất.Mình có hẹn với nha sĩ
+Ồ, vấn đề gì đâu.Cậu chỉ cần hủy hẹn là xong\Mình không thể
+Có chứ.Dễ mà.Hãy gọi cho nha sĩ và hủy cuộc hẹn\Không, cậu không hiểu đâu.Đó là một nha sĩ nổi tiếng.Tớ sẽ mất cả tháng để có thể có cuộc hẹn khác đấy
+Vậy tại sao cậu phải đi nha sĩ vậy?.Cậu bị đau à?\Không, tớ phải đi hàn răng
+Không thành vấn đề đâu.Mình có thể hàn cho cậu\Gì cơ?
+Không sao. Cậu rảnh vào thứ Sáu khôg?\Có, buổi tối
+Có thể chúng ta sẽ chuyển cuộc hẹn vào thứ Sáu\Ý hay đấy
+Mình sẽ gọi Al và hỏi xem chúng ta có thể hoãn đến thứ 6 không\Thật tuyệt
 

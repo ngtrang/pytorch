@@ -14,7 +14,7 @@
       <file leaf-file-name="vi_bot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vi_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11851">
+            <state relative-caret-position="0">
               <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding>
                 <element signature="e#44#109#0" expanded="true" />
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vi_bot2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vi_bot2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vi_bot2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+            <state relative-caret-position="227">
+              <caret line="759" column="37" lean-forward="false" selection-start-line="759" selection-start-column="37" selection-end-line="759" selection-end-column="37" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -36,8 +36,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viatt.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viatt.png">
+      <file leaf-file-name="losses.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/losses.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -46,7 +53,7 @@
       <file leaf-file-name="result-vi2" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result-vi2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1423">
+            <state relative-caret-position="2025">
               <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
               <folding />
             </state>
@@ -66,8 +73,8 @@
       <file leaf-file-name="en_model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/en_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="432" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="780" selection-end-column="40" />
+            <state relative-caret-position="125">
+              <caret line="425" column="7" lean-forward="false" selection-start-line="425" selection-start-column="7" selection-end-line="426" selection-end-column="30" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -137,10 +144,11 @@
         <option value="$PROJECT_DIR$/data/100eng-vi.txt" />
         <option value="$PROJECT_DIR$/result-vi" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/en_model.py" />
         <option value="$PROJECT_DIR$/vi_bot.py" />
         <option value="$PROJECT_DIR$/result-vi2" />
+        <option value="$PROJECT_DIR$/en_model.py" />
         <option value="$PROJECT_DIR$/vi_bot2.py" />
+        <option value="$PROJECT_DIR$/100conver2.txt" />
       </list>
     </option>
   </component>
@@ -166,7 +174,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Seq2seq-pytorch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Seq2seq-pytorch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -183,17 +201,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Seq2seq-pytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Seq2seq-pytorch" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,14 +468,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12679045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42535546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43127963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -522,11 +529,6 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/en_model.py</url>
-          <line>426</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/vi_bot.py</url>
           <line>133</line>
           <option name="timeStamp" value="105" />
@@ -547,21 +549,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/torch/nn/modules/module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="476" column="0" lean-forward="false" selection-start-line="476" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/anwser_databse.txt" />
     <entry file="file://$PROJECT_DIR$/rus_database.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -599,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="787" column="0" lean-forward="true" selection-start-line="787" selection-start-column="0" selection-end-line="787" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,16 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/en_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="432" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="780" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/result-vi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -859,12 +835,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vi_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11851">
+        <state relative-caret-position="0">
           <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding>
             <element signature="e#44#109#0" expanded="true" />
             <element signature="e#8481#8551#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/100eng-vie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4275">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result-vi2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100conver.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18448">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -878,38 +876,42 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/100eng-vie.txt">
+    <entry file="file://$PROJECT_DIR$/en_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4275">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result-vi2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1423">
-          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100conver.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18448">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="125">
+          <caret line="425" column="7" lean-forward="false" selection-start-line="425" selection-start-column="7" selection-end-line="426" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vi_bot2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+        <state relative-caret-position="227">
+          <caret line="759" column="37" lean-forward="false" selection-start-line="759" selection-start-column="37" selection-end-line="759" selection-end-column="37" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/losses.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100conver2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14703">
+          <caret line="496" column="0" lean-forward="false" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>

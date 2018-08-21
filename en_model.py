@@ -423,8 +423,8 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
     loss = 0
 
     for ei in range(input_length):
-        if input_length > max_length:
-            print("checked")
+        # if input_length > max_length:
+        #     print("checked")
         encoder_output, encoder_hidden = encoder(
             input_tensor[ei], encoder_hidden)
         encoder_outputs[ei] = encoder_output[0, 0]
