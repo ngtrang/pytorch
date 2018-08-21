@@ -72,7 +72,7 @@ def readLangs(reverse=False):
     #     #lines = open('data/OpenSubtitles/processed_OpenSubtitles_reverse.txt', encoding='utf-8').read().strip().split('\n')
     #     lines = open('data/Twitter/processed_Twitter_reverse.txt', encoding='utf-8').read().strip().split('\n')
     # else:
-    lines = open('data/vi_database.txt', encoding='utf-8').read().strip().split('\n')
+    lines = open('data/100conver2.txt', encoding='utf-8').read().strip().split('\n')
     # lines = open('data/answer_databse.txt', encoding='utf-8').read().strip().split('\n')
 
     # Split every line into pairs and normalize
@@ -533,8 +533,8 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, plot_every=100,
             print_loss_total = 0
             print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, print_loss_avg))
-            torch.save(encoder, 'model/encoder.pkl')
-            torch.save(decoder, 'model/decoder.pkl')
+            torch.save(encoder, 'model/VI-model/encoder.pkl')
+            torch.save(decoder, 'model/VI-model/decoder.pkl')
 
         if iter % plot_every == 0:
             plot_loss_avg = plot_loss_total / plot_every
@@ -569,7 +569,7 @@ def showPlot(points):
     loc = ticker.MultipleLocator(base=0.2)
     ax.yaxis.set_major_locator(loc)
     plt.plot(points)
-    fig.savefig("losses.png")
+    fig.savefig("Plot/losses.png")
 
 
 ######################################################################
@@ -659,8 +659,8 @@ def evaluateRandomly(encoder, decoder, n=10):
 def run_train(iterations):
     hidden_size = 256  # original 256 for single layer
     try:
-        encoder1 = torch.load('model/encoder.pkl')
-        attn_decoder1 = torch.load('model/decoder.pkl')
+        encoder1 = torch.load('model/VI-model/encoder.pkl')
+        attn_decoder1 = torch.load('model/VI-model/decoder.pkl')
     except:
         encoder1 = EncoderRNN(input_lang.n_words, hidden_size).to(device)
         attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, dropout_p=0.1).to(device)
@@ -710,7 +710,7 @@ def showAttention(input_sentence, output_words, attentions):
     ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
 
     plt.show()
-    fig.savefig("test.png")
+    fig.savefig("Plot/test.png")
 
 
 def evaluateAndShowAttention(input_sentence, encoder1, attn_decoder1):
@@ -763,8 +763,8 @@ if __name__ == '__main__':
     #
     # elif usage == 'test':
     # to test a chatbot
-    encoder1 = torch.load('model/encoder.pkl')
-    attn_decoder1 = torch.load('model/decoder.pkl')
+    encoder1 = torch.load('model/VI-model/encoder.pkl')
+    attn_decoder1 = torch.load('model/VI-model/decoder.pkl')
     input_sentence = ''
     evaluateAndShowAttention("xin chào", encoder1, attn_decoder1)
     #     while input_sentence != 'exit':
